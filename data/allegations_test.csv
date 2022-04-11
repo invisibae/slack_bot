@@ -1,9 +1,10 @@
 name,date_filed,city,state,url,count,allegations
 "(1) First Mile Square LLC & (2) First Student Inc., as single employer",2022-01-12,Mount Vernon,NY,https://www.nlrb.gov/case/02-CA-288824,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 10 Roads Express,2022-03-22,Harrisburg,PA,https://www.nlrb.gov/case/04-CA-292738,3,"8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(1) Interrogation (including Polling), and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
-1199 SEIU,2022-03-21,Brooklyn,NY,https://www.nlrb.gov/case/29-CB-292672,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 1199 SEIU (Georgetown University),2022-01-12,Washington,DC,https://www.nlrb.gov/case/05-CB-288858,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+1199 SEIU (Maimonides Medical Center/Maimonides Health),2022-03-21,Brooklyn,NY,https://www.nlrb.gov/case/29-CB-292672,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 1199 SEIU (Northwell Health CEMS Lenox Hill Hospital),2022-02-10,Manhattan,NY,https://www.nlrb.gov/case/02-CB-290496,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+1199 SEIU United Healthcare Workers East (Jamaica Hospital Medical Center),2022-03-30,Queens,NY,https://www.nlrb.gov/case/29-CB-293395,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 1199 SEIU United Healthcare Workers East (Kaleida Health),2022-03-16,Buffalo,NY,https://www.nlrb.gov/case/03-CB-292323,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 1199 SEIU(Planned Parenthood Federation of America,2022-01-21,New York,NY,https://www.nlrb.gov/case/02-CB-289380,2,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees) and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 1199- SEIU Montefiore Medical Center (Montefiore Medical Center Vaccination Program at the Atrium),2022-03-11,Bronx,NY,https://www.nlrb.gov/case/02-CB-292161,4,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining, 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access, 8(b)(2) Hiring Hall Related, and 8(b)(1)(A) Hiring Halls"
@@ -110,7 +111,7 @@ Alert Ambulance,2022-01-11,Chicopee,MA,https://www.nlrb.gov/case/01-CA-288767,2,
 Alfagomma Inc.,2022-03-01,Batavia,IL,https://www.nlrb.gov/case/13-CA-291426,2,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Interrogation (including Polling)
 ALH Construction Company,2022-01-03,Elizabethton,TN,https://www.nlrb.gov/case/10-CA-288357,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Alkegen (Formerly Unifrax),2022-03-18,Tonawanda,NY,https://www.nlrb.gov/case/03-CA-292485,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
-All American Asphalt,2022-03-21,Corona,CA,https://www.nlrb.gov/case/21-CA-292667,2,"8(a)(4) Discharge (including Layoff and Refusal to Hire) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+All American Asphalt,2022-03-21,Corona,CA,https://www.nlrb.gov/case/21-CA-292667,3,"8(a)(4) Discharge (including Layoff and Refusal to Hire), 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 All Purpose Carrier LLC,2022-01-24,Everett,WA,https://www.nlrb.gov/case/19-CA-289390,2,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.) and 8(a)(1) Coercive Actions (Surveillance, etc)"
 All Star Staffing,2022-03-21,Denver,CO,https://www.nlrb.gov/case/27-CA-292604,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 All Star Staffing LLC,2022-01-07,Denver,CO,https://www.nlrb.gov/case/27-CA-288661,6,"8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(5) Refusal to Furnish Information, 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(3) Discipline, 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -284,6 +285,7 @@ American Postal Workers Union Upper Piedmont South Carolina Area Local 168 (Unit
 "American Postal Workers Union, Local 1250 (United States Postal Service)",2022-02-02,Las Vegas,NV,https://www.nlrb.gov/case/28-CB-290097,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "American Postal Workers Union, Local 189 (United States Postal Service)",2022-03-15,Forrest City,AR,https://www.nlrb.gov/case/15-CB-292324,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "American Postal Workers Union, Local 195 (United States Postal Service)",2022-01-07,San Antonio,TX,https://www.nlrb.gov/case/16-CB-288601,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"American Postal Workers Union, Local 195 (United States Postal Service)",2022-04-01,San Antonio,TX,https://www.nlrb.gov/case/16-CB-293411,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "AMERICAN POSTAL WORKERS UNION, LOCAL 2307 (United States Postal Service)",2022-01-21,Lexington,KY,https://www.nlrb.gov/case/09-CB-289320,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "American Postal Workers Union, Local 259 (United States Postal Service)",2022-03-11,Tampa,FL,https://www.nlrb.gov/case/12-CB-292223,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "American Postal Workers Union, Local 299 (United States Postal Service)",2022-02-01,Austin,TX,https://www.nlrb.gov/case/16-CB-289914,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -312,6 +314,7 @@ American Red Cross,2022-03-15,Washington,DC,https://www.nlrb.gov/case/05-CA-2923
 American Red Cross,2022-03-15,Washington,DC,https://www.nlrb.gov/case/05-CA-292407,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 American Red Cross Blood Services,2022-02-04,Dallas,TX,https://www.nlrb.gov/case/16-CA-290196,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Rules"
 AMERICAN STEEL FABRICATORS LLC,2022-01-24,Cambridge,MA,https://www.nlrb.gov/case/01-CA-289398,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
+American University,2022-04-01,Washington,DC,https://www.nlrb.gov/case/05-CA-293383,2,8(a)(5) Refusal to Furnish Information and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 American Valve and Hydrant,2022-03-15,Beaumont,TX,https://www.nlrb.gov/case/16-CA-292297,1,8(a)(3) Changes in Terms and Conditions of Employment
 American Water Works Service Company Incorporated,2022-03-31,Alton,IL,https://www.nlrb.gov/case/14-CA-293265,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 AMERICOLD LOGISTICS,2022-03-02,Gloucester,MA,https://www.nlrb.gov/case/01-CA-291517,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
@@ -319,11 +322,13 @@ AMERICOLD LOGISTICS,2022-03-02,Gloucester,MA,https://www.nlrb.gov/case/01-CA-291
 "Ameriguard Security Services, Inc.",2022-01-07,Washington,DC,https://www.nlrb.gov/case/05-CA-289143,2,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(4) Discharge (including Layoff and Refusal to Hire)
 "Amero Building Restoration, Inc",2022-02-04,Cedar Rapids,IA,https://www.nlrb.gov/case/18-CA-290152,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
 "Amero Building Restoration, Inc",2022-02-04,Cedar Rapids,IA,https://www.nlrb.gov/case/18-CA-290156,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+"AMG Resources Corporation and its subsidiary Weirton Scrap Processing, a single employer",2022-04-01,Pittsburgh,PA,https://www.nlrb.gov/case/06-CA-293445,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
 AMITA Saint Joseph Medical Center,2022-04-01,Joliet,IL,https://www.nlrb.gov/case/13-CA-293341,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Anaheim Global Medical Center,2022-01-07,Anaheim,CA,https://www.nlrb.gov/case/21-CA-288659,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Annuity Health, LLC",2022-03-16,Westmont,IL,https://www.nlrb.gov/case/13-CA-292332,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Antelope Valley Learning Academy,2022-02-10,Lancaster,CA,https://www.nlrb.gov/case/31-CA-290415,3,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(3) Discipline"
 ANTHONY L JORDAN HEALTH CENTER,2022-02-11,Rochester,NY,https://www.nlrb.gov/case/03-CA-290418,1,8(a)(1) Coercive Rules
+ANTHONY L JORDAN HEALTH CENTER,2022-04-04,Rochester,NY,https://www.nlrb.gov/case/03-CA-293426,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 ANTHONY L. JORDAN HEALTH CENTER,2022-02-11,Rochester,NA,https://www.nlrb.gov/case/03-CA-290419,1,8(a)(5) Refusal to Furnish Information
 Anthony Sylvan Pools,2022-02-17,Henderson,NV,https://www.nlrb.gov/case/28-CA-290903,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "Anton's Fruit Ranch and the Branch, Inc.",2022-01-28,Highland Park,IL,https://www.nlrb.gov/case/13-CA-289645,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(2) Domination
@@ -355,6 +360,9 @@ APWU (United States Postal Service),2022-03-01,Indianapolis,IN,https://www.nlrb.
 APWU (United States Postal Service),2022-03-15,Madison,WI,https://www.nlrb.gov/case/18-CB-292301,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 APWU (United States Postal Service),2022-03-21,Chicago,IL,https://www.nlrb.gov/case/13-CB-292530,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 APWU (United States Postal Service),2022-04-01,Chicago,IL,https://www.nlrb.gov/case/13-CB-293312,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+APWU (United States Postal Service),2022-04-04,Chicago,IL,https://www.nlrb.gov/case/13-CB-293517,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+APWU (United States Postal Service),2022-04-04,Chicago,IL,https://www.nlrb.gov/case/13-CB-293518,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+APWU (United States Postal Service),2022-04-04,Palatine,IL,https://www.nlrb.gov/case/13-CB-293393,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 APWU Brooklyn Local 251 (United States Postal Service),2022-02-24,Brooklyn,NY,https://www.nlrb.gov/case/29-CB-291114,1,"8(b)(1)(A) Coercion, incl'g Statements and Violence"
 APWU Indianapolis Local (United States Postal Service),2022-03-30,Greenwood,IN,https://www.nlrb.gov/case/25-CB-293296,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 APWU Local 1,2022-01-10,Chicago,IL,https://www.nlrb.gov/case/13-CB-288672,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -364,7 +372,8 @@ APWU Local 1 (United States Postal Service),2022-03-08,Chicago,IL,https://www.nl
 APWU LOCAL 1343 (United States Postal Service),2022-03-10,Elmhurst,IL,https://www.nlrb.gov/case/13-CB-291995,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 APWU Local 147 (USPS),2022-03-09,East Hartford,CT,https://www.nlrb.gov/case/01-CB-291999,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 APWU Local 1820 (USPS),2022-03-18,Utica,NY,https://www.nlrb.gov/case/03-CB-292432,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
-APWU Local 247,2022-03-18,Colorado Springs,CO,https://www.nlrb.gov/case/27-CB-292551,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+APWU Local 247 (United States Postal Service),2022-03-18,Colorado Springs,CO,https://www.nlrb.gov/case/27-CB-292551,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+APWU Local 3630 (United States Postal Service),2022-03-31,Gaithersburg,MD,https://www.nlrb.gov/case/05-CB-293372,2,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
 APWU Local 66 (United States Postal Service),2022-02-15,West Sacramento,CA,https://www.nlrb.gov/case/20-CB-290726,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 APWU Local 67 (United States Postal Service),2022-02-22,Kansas City,MO,https://www.nlrb.gov/case/14-CB-290950,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 APWU Local 67 (United States Postal Service),2022-02-22,Kansas City,MO,https://www.nlrb.gov/case/14-CB-290951,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -480,6 +489,7 @@ Auto-Tronic Control Company,2022-02-04,Northwood,OH,https://www.nlrb.gov/case/08
 Automatic Products Corporation,2022-01-14,Garland,TX,https://www.nlrb.gov/case/16-CA-289066,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 AutoNation,2022-03-29,Tempe,AZ,https://www.nlrb.gov/case/28-CA-293156,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "AVALON CARE CENTER – SAN ANDREAS, LLC D/B/A AVALON HEALTH CARE – SAN ANDREAS",2022-03-31,San Andreas,CA,https://www.nlrb.gov/case/32-CA-293367,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
+Aveanna,2022-04-04,Spokane Valley,WA,https://www.nlrb.gov/case/19-CA-293447,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Avenue Care Center,2022-01-11,Warrensville Heights,OH,https://www.nlrb.gov/case/08-CA-288762,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Avenue Care Center,2022-02-11,Warrensville Heights,OH,https://www.nlrb.gov/case/08-CA-290436,2,"8(a)(3) Discipline and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "AVI Foodsystems, Inc.",2022-03-28,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-293017,3,"8(a)(3) Discipline, 8(a)(4) Discipline, and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -495,6 +505,7 @@ BAE Systems,2022-01-21,Radford,VA,https://www.nlrb.gov/case/10-CA-289335,1,"8(a)
 BAE Systems OSI,2022-03-02,New River,VA,https://www.nlrb.gov/case/10-CA-291610,1,8(a)(1) Weingarten
 Bakery Workers (Nickles Bakery),2022-02-04,Navarre,OH,https://www.nlrb.gov/case/08-CB-290171,3,"8(b)(2) Union Security Related Actions, 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access, and 8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)"
 "Bakery, Confectionery, Tobacco Workers and Grain Millers' Union Local 252G (Lanxess Corporation)",2022-03-24,Memphis,TN,https://www.nlrb.gov/case/15-CB-292877,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+Baldwin Family Health Care,2022-04-04,Cadillac,MI,https://www.nlrb.gov/case/07-CA-293459,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Rules"
 Ball Corporation,2022-01-11,Fort Worth,TX,https://www.nlrb.gov/case/16-CA-288819,3,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Refusal to Furnish Information, and 8(a)(3) Discipline"
 Baltimore Symphony Orchestra,2022-01-31,Baltimore,MD,https://www.nlrb.gov/case/05-CA-289734,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Bancker Construction,2022-03-22,Islip,NY,https://www.nlrb.gov/case/29-CA-292827,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -512,6 +523,8 @@ Bergelectric Corporation,2022-02-07,Austin,TX,https://www.nlrb.gov/case/16-CA-29
 Berkeley Nursing and Rehab,2022-02-24,Oak Park,IL,https://www.nlrb.gov/case/13-CA-291248,3,"8(a)(5) Refusal to Recognize, 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(1) Coercive Actions (Surveillance, etc)"
 Best Foot Forward Podiatric Specialists,2022-02-24,Saint Louis,MO,https://www.nlrb.gov/case/14-CA-291212,1,8(a)(1) Coercive Rules
 Best Western Plus Hotel,2022-03-10,Minneapolis,MN,https://www.nlrb.gov/case/18-CA-292072,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Bethlen Home,2022-03-30,Ligonier,PA,https://www.nlrb.gov/case/06-CA-293446,3,"8(a)(5) Refusal to Furnish Information, 8(a)(3) Discipline, and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+Bevco Parking Services,2022-04-04,Maryville,TN,https://www.nlrb.gov/case/10-CA-293468,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Coercive Rules, and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Bexar County Performing Arts Center Foundation d/b/a Tobin Center for the Performing,2022-01-31,San Antonio,TX,https://www.nlrb.gov/case/16-CA-289819,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
 BFI Waste Systems of North America LLC d/b/a Allied Waste Services of San Mateo County/Republic Services of San Mateo County,2022-01-21,Half Moon Bay,CA,https://www.nlrb.gov/case/20-CA-289272,1,8(a)(5) Refusal to Furnish Information
 Big Star Trucking,2022-01-20,Fort Worth,TX,https://www.nlrb.gov/case/16-CA-289235,5,"8(a)(1) Coercive Rules, 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(4) Changes in Terms and Conditions of Employment"
@@ -583,6 +596,7 @@ BROOKS PLUMBING PRO,2022-02-25,Trotwood,OH,https://www.nlrb.gov/case/09-CA-29132
 Brown University,2022-02-07,Providence,RI,https://www.nlrb.gov/case/01-CA-290179,1,8(a)(5) Refusal to Furnish Information
 Brown University,2022-04-01,Providence,RI,https://www.nlrb.gov/case/01-CA-293345,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Browning-Ferris Industries of California, Inc. (Ox Mountain Landfill)",2022-01-21,Half Moon Bay,CA,https://www.nlrb.gov/case/20-CA-289269,1,8(a)(5) Refusal to Furnish Information
+BRYANT PARK CORPORATION,2022-04-01,Manhattan,NY,https://www.nlrb.gov/case/02-CA-293418,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 BUFFALO TRACE DISTILLERY,2022-01-28,Frankfort,KY,https://www.nlrb.gov/case/09-CA-289683,2,8(a)(3) Discipline and 8(a)(3) Changes in Terms and Conditions of Employment
 Builderz Warehouse LLC,2022-03-28,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-293128,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "Bulkmatic, LLC",2022-01-11,Jacksonville,FL,https://www.nlrb.gov/case/12-CA-288860,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -590,6 +604,7 @@ Burlingame Skilled Nursing,2022-02-24,Burlingame,CA,https://www.nlrb.gov/case/20
 Burlingame Skilled Nursing,2022-03-23,Burlingame,CA,https://www.nlrb.gov/case/20-CA-292838,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Butcher & Butcher Construction Co., Inc.",2022-03-10,Harbor Springs,MI,https://www.nlrb.gov/case/07-CA-292002,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Butler Hospital,2022-02-08,Providence,RI,https://www.nlrb.gov/case/01-CA-290247,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Refusal to Furnish Information
+Buzzfeed Inc.,2022-03-25,Manhattan,NY,https://www.nlrb.gov/case/02-CA-293432,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "C&M Service, Inc.",2022-02-16,St. Louis,MO,https://www.nlrb.gov/case/14-CA-290771,1,8(a)(5) Refusal to Furnish Information
 C2G,2022-03-04,Goose Creek,SC,https://www.nlrb.gov/case/10-CA-291674,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 CABELL HUNTINGTON HOSPITAL,2022-01-25,Huntington,WV,https://www.nlrb.gov/case/09-CA-289488,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -730,6 +745,12 @@ Chinese Hospital,2022-03-21,San Francisco,CA,https://www.nlrb.gov/case/20-CA-292
 "CHLB, LLC d/b/a Glendora Hospital",2022-03-01,Glendora,CA,https://www.nlrb.gov/case/31-CA-291437,2,8(a)(5) Refusal to Recognize and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Choicelunch,2022-01-18,San Jose,CA,https://www.nlrb.gov/case/32-CA-289163,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Christ Hospital,2022-01-04,Jersey City,NJ,https://www.nlrb.gov/case/22-CA-288459,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Ciena Healthcare and affiliated entity Courtney Manor,2022-03-31,Bad Axe,MI,https://www.nlrb.gov/case/07-CA-293474,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Ciena Healthcare and affiliated entity Qualicare,2022-03-31,Detroit,MI,https://www.nlrb.gov/case/07-CA-293478,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Ciena Healthcare and affiliated entity Regency at Chene,2022-03-31,Detroit,MI,https://www.nlrb.gov/case/07-CA-293484,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Ciena Healthcare and affiliated entity Sheffield Manor,2022-03-31,Detroit,MI,https://www.nlrb.gov/case/07-CA-293504,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"Ciena Healthcare and St. Mary's Acquisition Company, Inc. d/b/a Regency at St.  Clair Shores",2022-03-31,Saint Clair Shores,MI,https://www.nlrb.gov/case/07-CA-293499,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"Ciena Healthcare Management, Inc. and Boulevard Temple Care Center, LLC d/b/a Boulevard Care Center",2022-03-31,Detroit,MI,https://www.nlrb.gov/case/07-CA-293457,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Circle Motors, Inc. dba South Bay Volkswagen",2022-01-26,National City,CA,https://www.nlrb.gov/case/21-CA-289599,4,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(3) Refusal to Reinstate E'ee/Striker (e.g. Laidlaw), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(1) Interrogation (including Polling)"
 "Circle Motors, Inc. dba South Bay Volkswagen",2022-02-24,National City,CA,https://www.nlrb.gov/case/21-CA-291257,1,8(a)(5) Refusal to Recognize
 Citgo Petroleum Corporation,2022-01-31,Lemont,IL,https://www.nlrb.gov/case/13-CA-289750,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
@@ -751,6 +772,7 @@ Colectivo Coffee,2022-01-13,Milwaukee,WI,https://www.nlrb.gov/case/18-CA-289081,
 Colectivo Coffee,2022-02-04,Milwaukee,WI,https://www.nlrb.gov/case/18-CA-290159,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Colectivo Coffee,2022-02-23,Milwaukee,WI,https://www.nlrb.gov/case/18-CA-291131,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Colonial Produce,2022-02-22,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-290929,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Colorado Eye Institute,2022-04-04,Colorado Springs,CO,https://www.nlrb.gov/case/27-CA-293502,1,8(a)(1) Coercive Rules
 Columbia College Chicago,2022-02-10,Chicago,IL,https://www.nlrb.gov/case/13-CA-290449,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Refusal to Furnish Information
 Columbia College Chicago,2022-02-22,Chicago,IL,https://www.nlrb.gov/case/13-CA-291022,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Columbia College Chicago,2022-03-11,Chicago,IL,https://www.nlrb.gov/case/13-CA-292129,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
@@ -792,6 +814,7 @@ Condominio Condado del Mar,2022-03-31,San Juan,PR,https://www.nlrb.gov/case/12-C
 "Congreso de Uniones Industriales (Pan American Grain Manufacturing, Co., Inc.)",2022-03-15,Guaynabo,PR,https://www.nlrb.gov/case/12-CB-292242,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 Connecticut Education Association,2022-02-18,Hartford,CT,https://www.nlrb.gov/case/01-CA-290895,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Connecticut Education Association,2022-03-28,Hartford,CT,https://www.nlrb.gov/case/01-CA-293076,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"Connecticut Natural Gas, Corp 16 Old Track Road, Bldg. B (CNG Corp)",2022-04-04,Greenwich,CT,https://www.nlrb.gov/case/01-CB-293453,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Consumers Energy Company,2022-02-11,Wyoming,MI,https://www.nlrb.gov/case/07-CA-290542,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Refusal to Furnish Information
 ConvergeOne,2022-01-26,New York,NY,https://www.nlrb.gov/case/02-CB-289598,1,8(b)(2) Hiring Hall Related
 Cooper-Standard Automotive,2022-01-20,Bowling Green,OH,https://www.nlrb.gov/case/08-CA-289261,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -902,8 +925,10 @@ Desert Regional Medical Center,2022-01-28,Palm Springs,CA,https://www.nlrb.gov/c
 "Detroit District, Area Local 295, American Postal Workers Union (APWU), AFL-CIO (United States Postal Service)",2022-01-07,Detroit,MI,https://www.nlrb.gov/case/07-CB-288674,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Detroit District, Area Local 295, American Postal Workers Union (APWU), AFL-CIO (United States Postal Service)",2022-03-17,Detroit,MI,https://www.nlrb.gov/case/07-CB-292596,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Detroit Yacht Club,2022-03-22,Detroit,MI,https://www.nlrb.gov/case/07-CA-292788,2,"8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Dewey's Bakery,2022-04-04,Winston-Salem,NC,https://www.nlrb.gov/case/10-CA-293452,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 DFW Security Protective Force,2022-03-04,Elmhurst,IL,https://www.nlrb.gov/case/13-CA-291698,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 DHL EXPRESS,2022-01-21,South Boston,MA,https://www.nlrb.gov/case/01-CA-289306,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+DHT Transportation,2022-04-01,Detroit,MI,https://www.nlrb.gov/case/07-CA-293473,2,8(a)(1) Coercive Rules and 8(a)(1) Weingarten
 DIAFUKU Elite Line Services,2022-02-14,Carrollton,TX,https://www.nlrb.gov/case/16-CA-290639,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Dickson Orthopaedic and Sports Medicine PLLC d/b/a OrthoGo,2022-03-22,Dickson,TN,https://www.nlrb.gov/case/10-CA-292656,3,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), and 8(a)(1) Coercive Rules"
 "Didlake, Inc.",2022-03-25,Washington,DC,https://www.nlrb.gov/case/05-CA-293053,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -945,6 +970,7 @@ Dr. Todd Bainbridge,2022-01-18,West Chester,PA,https://www.nlrb.gov/case/04-CA-2
 "DSI TUNNELING, LLC",2022-01-07,Louisville,KY,https://www.nlrb.gov/case/09-CA-288696,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Rules"
 DSWC dba Nug Wellness,2022-03-17,San Leandro,CA,https://www.nlrb.gov/case/32-CA-292500,1,8(a)(1) Coercive Rules
 DTE Energy L.L.C./DTE Gas Company,2022-03-23,Detroit,MI,https://www.nlrb.gov/case/07-CA-292822,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+DTE Energy LLC/DTE Gas Company,2022-04-04,Cadillac,MI,https://www.nlrb.gov/case/07-CA-293463,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Dubois Chemicals d/b/d Rock Valley Oil & Chemical CO.,2022-02-24,Loves Park,IL,https://www.nlrb.gov/case/25-CA-291221,5,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Rules, 8(a)(3) Discipline, 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), and 8(a)(1) Coercive Actions (Surveillance, etc)"
 Duke Energy Indiana,2022-01-14,Lafayette,IN,https://www.nlrb.gov/case/25-CA-289023,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Duke University,2022-02-24,Durham,NC,https://www.nlrb.gov/case/10-CA-291102,2,8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(3) Refusal to Reinstate E'ee/Striker (e.g. Laidlaw)
@@ -1007,6 +1033,7 @@ Erie Strayer Company,2022-02-15,Erie,PA,https://www.nlrb.gov/case/06-CA-290690,2
 Erie Strayer Company,2022-02-15,Erie,PA,https://www.nlrb.gov/case/06-CA-290725,2,8(a)(3) Discipline and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Ernest Winzer Cleaners, LLC",2022-03-22,Bronx,NY,https://www.nlrb.gov/case/02-CA-292783,3,"8(a)(1) Denial of Access, 8(a)(5) Refusal to Furnish Information, and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
 "ESIS, Inc.",2022-02-25,Newark,NJ,https://www.nlrb.gov/case/22-CA-291351,2,8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(3) Changes in Terms and Conditions of Employment
+Essentia Health d/b/a Essentia Health-Deer River Health Care Center,2022-04-04,Deer River,MN,https://www.nlrb.gov/case/18-CA-293431,1,8(a)(3) Changes in Terms and Conditions of Employment
 Essentia Health Deer River,2022-02-03,Deer River,MN,https://www.nlrb.gov/case/18-CA-290085,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
 Essentia Health Deer River,2022-02-08,Deer River,MN,https://www.nlrb.gov/case/18-CA-290320,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
 Essentia Health Deer River Minnesota,2022-02-07,Deer River,NA,https://www.nlrb.gov/case/18-CA-290225,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
@@ -1073,8 +1100,8 @@ FIRST STUDENT TRANSPORTATION,2022-03-30,Brockton,MA,https://www.nlrb.gov/case/01
 "First Student, Inc.",2022-03-30,Kenosha,WI,https://www.nlrb.gov/case/18-CA-293215,3,"8(a)(5) Refusal to Furnish Information, 8(a)(4) Discipline, and 8(a)(3) Discipline"
 First Transit,2022-01-12,Atlanta,GA,https://www.nlrb.gov/case/10-CA-288821,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 First Transit,2022-02-28,Monmouth Junction,NJ,https://www.nlrb.gov/case/22-CA-291515,3,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), and 8(a)(3) Discipline"
-First Transit,2022-03-04,Capitol Heights,MD,https://www.nlrb.gov/case/05-CA-291846,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(1) Denial of Access
 "First Transit, Inc.",2022-02-14,Monmouth Junction,NJ,https://www.nlrb.gov/case/22-CA-290501,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
+"First Transit, Inc.",2022-03-04,Capitol Heights,MD,https://www.nlrb.gov/case/05-CA-291846,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(1) Denial of Access
 Flamingo Las Vegas,2022-01-26,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-289596,2,"8(a)(5) Refusal to Furnish Information and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Flex-N-Gate,2022-03-17,Ada,OK,https://www.nlrb.gov/case/14-CA-292439,2,8(a)(3) Discipline and 8(a)(5) Refusal to Recognize
 "Flexsteel Industries, Inc.",2022-03-07,Edgerton,KS,https://www.nlrb.gov/case/14-CA-291799,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
@@ -1082,6 +1109,7 @@ Flint Hills Resources,2022-01-24,Rosemount,MN,https://www.nlrb.gov/case/18-CA-28
 Flint Hills Resources - Pine Bend Refinery,2022-01-21,Rosemount,MN,https://www.nlrb.gov/case/18-CA-289340,1,8(b)(3) Repudiation/Modification of Contract
 "Florida Carpenters Regional Council, Local 18020 (Walt Disney Parks and Resorts US, Inc.)",2022-01-25,Lake Buena Vista,FL,https://www.nlrb.gov/case/12-CB-289613,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Florida Carpenters Regional Council, Local 1820 (Walt Disney Parks and Resorts, U.S., Inc.)",2022-02-11,Winter Garden,FL,https://www.nlrb.gov/case/12-CB-290475,2,"8(b)(2) Hiring Hall Related and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"Florida Hospital Ocala, Inc, d/b/a AdventHealth Ocala",2022-04-04,Ocala,FL,https://www.nlrb.gov/case/12-CA-293508,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Flowmaster Construction LLC,2022-02-22,Mexico,MO,https://www.nlrb.gov/case/14-CA-291001,1,8(a)(5) Failure to Sign Agreement
 FLUOR-BWXT PORTSMOUTH (FBP),2022-01-25,Piketon,OH,https://www.nlrb.gov/case/09-CA-289565,1,8(a)(3) Changes in Terms and Conditions of Employment
 "Foley, Inc. - Foley Rents Division",2022-03-23,Piscataway,NJ,https://www.nlrb.gov/case/22-CA-292790,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
@@ -1095,6 +1123,7 @@ Forbes Media LLC,2022-02-04,Jersey City,NJ,https://www.nlrb.gov/case/22-CA-29018
 Ford Motor Company,2022-02-09,Chicago,IL,https://www.nlrb.gov/case/13-CA-290325,1,8(a)(3) Discipline
 Ford Motor Company,2022-02-25,Dearborn,MI,https://www.nlrb.gov/case/07-CA-291397,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Ford Motor Company,2022-03-02,Lima,OH,https://www.nlrb.gov/case/08-CA-291551,2,8(a)(3) Discipline and 8(a)(3) Changes in Terms and Conditions of Employment
+Ford Motor Company,2022-03-24,Flat Rock,MI,https://www.nlrb.gov/case/07-CA-293450,3,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(1) Coercive Rules, and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 FORD MOTOR COMPANY,2022-03-30,Louisville,KY,https://www.nlrb.gov/case/09-CA-293271,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(3) Discipline, and 8(a)(1) Weingarten"
 Ford Motor Company Lima Engine Plant,2022-03-29,Lima,OH,https://www.nlrb.gov/case/08-CA-293164,2,"8(a)(3) Discipline and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Form A Feed,2022-03-25,New Richmond,WI,https://www.nlrb.gov/case/18-CA-292945,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
@@ -1108,6 +1137,7 @@ Four Rivers Nuclear Partnership,2022-01-06,Kevil,KY,https://www.nlrb.gov/case/10
 Fox 5,2022-01-06,New York,NY,https://www.nlrb.gov/case/02-CA-288843,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Fox Television Stations, Inc. dba Television Station KTTV",2022-01-27,Los Angeles,CA,https://www.nlrb.gov/case/31-CA-289663,1,8(a)(5) Refusal to Furnish Information
 Fragrancenet.com,2022-03-04,Deer Park,NY,https://www.nlrb.gov/case/29-CA-291793,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+Fresno Convention and Entertainment Center,2022-04-04,Fresno,CA,https://www.nlrb.gov/case/32-CA-293524,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Frontier Communications,2022-02-22,Burnsville,MN,https://www.nlrb.gov/case/18-CA-290988,1,8(a)(5) Refusal to Furnish Information
 Frontier Communications,2022-02-28,Edgar,WI,https://www.nlrb.gov/case/18-CA-291384,1,8(a)(5) Refusal to Furnish Information
 Frontier Communications,2022-02-28,Wausau,WI,https://www.nlrb.gov/case/18-CA-291392,1,8(a)(5) Refusal to Furnish Information
@@ -1126,6 +1156,7 @@ FYE,2022-02-22,Greensburg,PA,https://www.nlrb.gov/case/06-CA-290980,1,"8(a)(1) C
 "G & D Integrated Manufacturing, LLC",2022-02-02,Morton,IL,https://www.nlrb.gov/case/25-CA-289963,1,8(a)(5) Refusal to Furnish Information
 "G & D Integrated Manufacturing, LLC",2022-02-02,Morton,IL,https://www.nlrb.gov/case/25-CA-289989,1,8(a)(5) Refusal to Furnish Information
 "G & D Integrated Manufacturing, LLC",2022-02-02,Morton,IL,https://www.nlrb.gov/case/25-CA-289998,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"G.J. Farms, Inc.",2022-04-01,Fillmore,CA,https://www.nlrb.gov/case/31-CA-293497,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "G/O Media, Gizmodo Group",2022-02-17,New York,NY,https://www.nlrb.gov/case/02-CA-290875,1,8(a)(5) Refusal to Furnish Information
 "G&D Integrated Manufacturing, LLC",2022-02-02,Morton,IL,https://www.nlrb.gov/case/25-CA-289948,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "G&D Integrated Manufacturing, LLC",2022-02-04,Morton,IL,https://www.nlrb.gov/case/25-CA-290087,1,8(a)(3) Changes in Terms and Conditions of Employment
@@ -1201,9 +1232,11 @@ G4S Regulated Security Solutions,2022-01-05,Florida City,FL,https://www.nlrb.gov
 GAF Material Corporation,2022-01-05,Chesapeake,VA,https://www.nlrb.gov/case/05-CA-288487,1,8(a)(5) Refusal to Furnish Information
 GAF Material Corporation,2022-02-22,Chesapeake,VA,https://www.nlrb.gov/case/05-CA-291018,1,8(a)(3) Discipline
 GAF Materials Corp. - Baltimore,2022-03-28,Baltimore,MD,https://www.nlrb.gov/case/05-CA-293137,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
+GAF Materials Corporation -  Baltimore Plant,2022-04-01,Baltimore,MD,https://www.nlrb.gov/case/05-CA-293376,1,8(a)(5) Refusal to Furnish Information
 Gallo Glass Company,2022-01-07,Modesto,CA,https://www.nlrb.gov/case/32-CA-288791,3,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], and 8(a)(5) Refusal to Furnish Information"
 Gannett Co. & Phoenix Newspapers d/b/a The Arizona Republic,2022-03-03,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-291829,2,"8(a)(5) Refusal to Furnish Information and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "Garda CL Atlantic, Inc.",2022-02-22,Newark,NJ,https://www.nlrb.gov/case/22-CA-291141,1,8(a)(5) Refusal to Furnish Information
+Gardenview Opco d/b/a Cedar Grove Respiratory & Nursing Center,2022-04-04,Williamstown,NJ,https://www.nlrb.gov/case/04-CA-293477,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Garfield Medical Center,2022-02-09,Monterey Park,CA,https://www.nlrb.gov/case/21-CA-290408,3,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(3) Changes in Terms and Conditions of Employment, and 8(a)(1) Denial of Access"
 Gary Merlino Construction,2022-03-08,Seattle,WA,https://www.nlrb.gov/case/19-CA-291862,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(1) Coercive Actions (Surveillance, etc)"
 "Geeking Out Kids of Color (""GOKiC"")",2022-02-22,Seattle,WA,https://www.nlrb.gov/case/19-CA-291005,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
@@ -1240,6 +1273,7 @@ Geodis Logistics LLC,2022-03-14,Memphis,TN,https://www.nlrb.gov/case/15-CA-29219
 Georgetown University,2022-02-18,Washington,DC,https://www.nlrb.gov/case/05-CA-291245,1,8(a)(1) Weingarten
 Georgia Pacific,2022-01-04,Modesto,CA,https://www.nlrb.gov/case/32-CA-288595,3,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(1) Coercive Actions (Surveillance, etc), and 8(a)(2) Domination"
 Georgia Pacific,2022-01-27,Modesto,CA,https://www.nlrb.gov/case/32-CA-289662,3,"8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(2) Assistance"
+GEORGIA PACIFIC,2022-04-01,Lexington,KY,https://www.nlrb.gov/case/09-CA-293487,1,8(a)(2) Assistance
 Georgia Stevedore Association,2022-03-14,Garden City,GA,https://www.nlrb.gov/case/10-CA-292131,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(4) Discipline"
 Gerdau Steel Monroe Mill,2022-03-18,Monroe,MI,https://www.nlrb.gov/case/07-CA-292534,1,8(a)(5) Refusal to Furnish Information
 "GFP Mobile Mix Supply, LLC",2022-02-25,Wilmington,DE,https://www.nlrb.gov/case/04-CA-291282,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
@@ -1352,6 +1386,7 @@ Healthright 360,2022-01-05,San Francisco,CA,https://www.nlrb.gov/case/20-CA-2885
 Hearst Media Services d/b/a The Hour,2022-03-16,Norwalk,CT,https://www.nlrb.gov/case/01-CA-292384,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Hearst Media Services dba The Hour,2022-02-23,Norwalk,CT,https://www.nlrb.gov/case/01-CA-291079,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 HEARTHSIDE FOOD SOLUTIONS,2022-01-27,London,KY,https://www.nlrb.gov/case/09-CA-289692,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
+"Heat and Frost Insulators, Local 16 (Thermald Insulation)",2022-04-04,Sparks,NV,https://www.nlrb.gov/case/32-CB-293491,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
 HEETER PLUMBING LLC,2022-01-07,Dayton,OH,https://www.nlrb.gov/case/09-CA-288607,2,8(a)(1) Coercive Rules and 8(a)(3) Changes in Terms and Conditions of Employment
 "HEETER PLUMBING, LLC",2022-01-12,Dayton,OH,https://www.nlrb.gov/case/09-CA-288872,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
 Helmer Scientific LLC,2022-01-21,Noblesville,IN,https://www.nlrb.gov/case/25-CA-289290,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -1404,6 +1439,7 @@ Howard University Hospital,2022-03-30,Washington,DC,https://www.nlrb.gov/case/05
 Howard University/Howard University Hospital,2022-01-27,Washington,DC,https://www.nlrb.gov/case/05-CA-289693,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Howard University/Howard University Hospital,2022-03-29,Washington,DC,https://www.nlrb.gov/case/05-CA-293113,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Howard University/Howard University Hospital,2022-03-29,Washington,DC,https://www.nlrb.gov/case/05-CA-293139,2,"8(a)(3) Discipline and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Howard University/Howard University Hospital,2022-04-04,Washington,DC,https://www.nlrb.gov/case/05-CA-293420,1,8(a)(5) Refusal to Furnish Information
 Howmet,2022-03-30,Cleveland,OH,https://www.nlrb.gov/case/08-CA-293278,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Howmet Aerospace Inc.,2022-03-21,Cleveland,OH,https://www.nlrb.gov/case/08-CA-292576,2,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(1) Coercive Actions (Surveillance, etc)"
 "Howmet Aerospace, Inc.",2022-03-17,Cleveland,OH,https://www.nlrb.gov/case/08-CA-292469,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
@@ -1467,6 +1503,7 @@ IGT International Gaming Technology,2022-02-18,Las Vegas,NV,https://www.nlrb.gov
 IGT International Gaming Technology,2022-02-25,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-291273,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Coercive Actions (Surveillance, etc), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 IGT International Gaming Technology,2022-03-02,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-291639,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(1) Coercive Actions (Surveillance, etc)"
 IGT International Gaming Technology,2022-03-22,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-292821,3,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(5) Refusal to Furnish Information"
+IGT International Gaming Technology,2022-04-01,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-293416,2,"8(a)(5) Refusal to Furnish Information and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 IL Creations,2022-01-07,Gaithersburg,MD,https://www.nlrb.gov/case/05-CA-288711,1,8(a)(5) Refusal to Furnish Information
 IL Creations,2022-01-07,Gaithersburg,MD,https://www.nlrb.gov/case/05-CA-288740,1,8(a)(5) Refusal to Furnish Information
 ILA Employers Welfare Fund (Ports America),2022-03-18,Savannah,GA,https://www.nlrb.gov/case/10-CB-292531,1,8(b)(1)(A) Hiring Halls
@@ -1541,7 +1578,7 @@ International Association of Machinists Local 751 (The Boeing Company),2022-01-2
 International Association of Machinists Local 751 (The Boeing Company),2022-03-14,Everett,WA,https://www.nlrb.gov/case/19-CB-292352,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 International Brotherhood Electrical Workers Sixth District Office (Comcast),2022-03-10,Oswego,IL,https://www.nlrb.gov/case/13-CB-292077,1,"8(b)(1)(A) Coercion, incl'g Statements and Violence"
 International Brotherhood of Boilermakers (FMM),2022-01-03,Marinette,WI,https://www.nlrb.gov/case/18-CB-288393,1,8(a)(3) Discipline
-"International Brotherhood of Boilermakers Iron Ship Builders, Blacksmiths Forgers and Helpers, Local 69",2022-03-22,Moss Point,MS,https://www.nlrb.gov/case/15-CB-292748,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"International Brotherhood of Boilermakers Iron Ship Builders, Blacksmiths Forgers and Helpers, Local 693",2022-03-22,Moss Point,MS,https://www.nlrb.gov/case/15-CB-292748,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "International Brotherhood of Boilermakers, Local 158 (Komatsu America Corporation)",2022-01-20,Peoria,IL,https://www.nlrb.gov/case/25-CB-289237,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "International Brotherhood of Electrical Workers (IBEW), AFL-CIO and its Locals 665, 252 and 58 (United Electrical Contractors, Inc.)",2022-02-22,Detroit,MI,https://www.nlrb.gov/case/07-CC-291039,1,8(b)(4)(B) Statements
 International Brotherhood of Electrical Workers (Shambaugh & Sons),2022-03-01,Fort Wayne,IN,https://www.nlrb.gov/case/25-CB-291464,2,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
@@ -1556,6 +1593,7 @@ International Brotherhood of Electrical Workers Local Union 461,2022-03-31,Auror
 "International Brotherhood of Electrical Workers, Local 611 (American Power, LLC)",2022-01-26,Albuquerque,NM,https://www.nlrb.gov/case/28-CB-289630,2,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access and 8(b)(2) Causing Employer to Discriminate/Retaliate"
 INTERNATIONAL BROTHERHOOD OF TEAMSTERS (IBT) LOCAL 957 (USF Holland),2022-02-07,Dayton,OH,https://www.nlrb.gov/case/09-CB-290261,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "INTERNATIONAL BROTHERHOOD OF TEAMSTERS (IBT), LOCAL 651 (G&J Pepsi-Cola Bottlers, Inc.)",2022-03-10,Lexington,KY,https://www.nlrb.gov/case/09-CB-292121,2,8(b)(3) Failure to Sign Agreement and 8(b)(3) Repudiation/Modification of Contract
+"INTERNATIONAL BROTHERHOOD OF TEAMSTERS (IBT), LOCAL 651 (Georgia Pacific)",2022-04-01,Lexington,KY,https://www.nlrb.gov/case/09-CB-293495,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
 "INTERNATIONAL BROTHERHOOD OF TEAMSTERS (IBT), LOCAL 957(USF Holland)",2022-02-07,Dayton,OH,https://www.nlrb.gov/case/09-CB-290334,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 International Brotherhood of Teamsters 813 (Tunnel Hill Ash),2022-01-31,Waterbury,CT,https://www.nlrb.gov/case/01-CB-289705,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 International Brotherhood of Teamsters Local 135 (Kuraray Monosol),2022-01-18,La Porte,IN,https://www.nlrb.gov/case/25-CB-289030,1,"8(b)(1)(A) Coercion, incl'g Statements and Violence"
@@ -1604,6 +1642,7 @@ International Longshoremen's Association Local 1694 (Philadelphia Maritime Trade
 "International Longshoremen's Association, Local 333 (Ceres Marine Terminal)",2022-02-17,Baltimore,MD,https://www.nlrb.gov/case/05-CB-290842,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "International Longshoremen’s Association, Local 333 (Locust Point Marine Terminal)",2022-01-20,Baltimore,MD,https://www.nlrb.gov/case/05-CB-289317,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 International Matex Tank Terminals Bayonne L.L.C.,2022-02-07,Bayonne,NJ,https://www.nlrb.gov/case/22-CA-290189,2,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+"International Union of Elevator Constructors (""IUEC""), Local No. 34 (Schindler Elevator Corporation)",2022-04-01,Indianapolis,IN,https://www.nlrb.gov/case/25-CB-293378,1,"8(b)(1)(A) Coercion, incl'g Statements and Violence"
 "International Union of Operating Engineers Local 150 (Donegal Services, LLC)",2022-01-06,Lemont,IL,https://www.nlrb.gov/case/13-CB-288568,1,"8(b)(1)(A) Coercion, incl'g Statements and Violence"
 International Union of Operating Engineers Local 150 (Winninger Excavating),2022-01-18,Yorkville,IL,https://www.nlrb.gov/case/25-CB-289053,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "International Union of Operating Engineers Local 30 (Ethos Energy Power Plant Services, LLC)",2022-01-05,Whitestone,NY,https://www.nlrb.gov/case/03-CB-288456,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -1627,6 +1666,7 @@ International Union of Operating Engineers Local 150 (Winninger Excavating),2022
 "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, Local 1050",2022-03-30,Cleveland,OH,https://www.nlrb.gov/case/08-CB-293279,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, Local 967 (L3 Harris)",2022-02-22,Greenville,TX,https://www.nlrb.gov/case/16-CB-291135,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, UAW, Region 2B and its Local 638 (GT Technologies, Inc.)",2022-02-25,Defiance,OH,https://www.nlrb.gov/case/08-CB-291294,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"International Union, United Automobile, Aerospace and Agricultural Implement Workers of American (UAW), AFL-CIO (General Motors LLC)",2022-04-04,Belleville,MI,https://www.nlrb.gov/case/07-CB-293488,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "International Warehouse and Longshoremen Union, Local 62 (Southeast Stevedoring)",2022-02-10,Ketchikan,AK,https://www.nlrb.gov/case/19-CB-290446,4,"8(b)(2) Hiring Hall Related, 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access, 8(b)(1)(A) Discipline (including charges/fines)/Harassment, and 8(b)(1)(A) Hiring Halls"
 Intertape Polymer Group,2022-02-07,Marysville,MI,https://www.nlrb.gov/case/07-CA-290160,4,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(3) Discipline, and 8(a)(5) Refusal to Furnish Information"
 Intertape Polymer Group,2022-03-07,Marysville,MI,https://www.nlrb.gov/case/07-CA-291784,2,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(3) Discipline
@@ -1635,6 +1675,7 @@ Intertape Polymer Group,2022-03-07,Marysville,MI,https://www.nlrb.gov/case/07-CA
 Iowa Beverage,2022-03-30,Cedar Rapids,IA,https://www.nlrb.gov/case/18-CA-293232,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Ipsum Investments,2022-02-07,Houston,TX,https://www.nlrb.gov/case/16-CA-290250,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "Iron River Co-Op, Hardware Hank",2022-03-29,Iron River (CDP),WI,https://www.nlrb.gov/case/18-CA-293103,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"Ironworkers International Association (Oxford Electrical Contractors, Inc.)",2022-03-29,Washington,DC,https://www.nlrb.gov/case/05-CB-293427,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Ironworkers Local 433 (ADF Group Inc.),2022-01-12,Los Angeles,CA,https://www.nlrb.gov/case/31-CB-288885,3,"8(b)(2) Causing Employer to Discriminate/Retaliate, 8(b)(2) Hiring Hall Related, and 8(b)(1)(A) Hiring Halls"
 "Ironworkers Union Local 1 (American Steel Fabricators, Inc.)",2022-03-04,Forest Park,IL,https://www.nlrb.gov/case/13-CC-291742,1,8(b)(4)(B) Picketing/Handbilling
 Ironworkers Union Local 1(American Steel Fabricators),2022-03-04,Chicago,IL,https://www.nlrb.gov/case/13-CB-291686,2,8(b)(7)(B) All allegations and 8(b)(4)(B) Picketing/Handbilling
@@ -1652,6 +1693,7 @@ IUE-CWA Local 86821 (Hubbell Power Systems),2022-01-26,Centralia,MO,https://www.
 "J Ginger Masonry, LP",2022-01-31,Menifee,CA,https://www.nlrb.gov/case/21-CA-289777,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 J. P. McCarthy & Sons,2022-02-04,Hubbardston,MA,https://www.nlrb.gov/case/01-CA-290078,5,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(5) Refusal to Furnish Information, and 8(a)(1) Coercive Actions (Surveillance, etc)"
 J. P. MCCARTHY & SONS,2022-03-25,Brookfield,MA,https://www.nlrb.gov/case/01-CA-292956,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
+J. Rettenmaier,2022-04-04,North Tonawanda,NY,https://www.nlrb.gov/case/03-CA-293401,2,8(a)(1) Denial of Access and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 J.F. Kiely Construction Co.,2022-02-01,Tinton Falls,NJ,https://www.nlrb.gov/case/22-CA-289862,3,"8(a)(5) Alter Ego, 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(5) Refusal to Recognize"
 J.F. Kiely Construction Co.,2022-02-17,Tinton Falls,NJ,https://www.nlrb.gov/case/22-CA-290791,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "J.M. Brennan, Inc.",2022-01-27,Milwaukee,WI,https://www.nlrb.gov/case/18-CA-289587,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -1659,6 +1701,7 @@ Jacmar,2022-01-19,Industry,CA,https://www.nlrb.gov/case/21-CA-289138,1,8(a)(5) F
 Jacob Javits Conventions Center/NYC Convention Center Operation Corporation,2022-01-26,New York,NY,https://www.nlrb.gov/case/02-CA-289653,2,8(a)(1) Weingarten and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Jacobs Technology Inc.,2022-02-10,Hanover,MD,https://www.nlrb.gov/case/05-CA-290528,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "Jacobs Technology, Inc.",2022-01-27,Las Cruces,NM,https://www.nlrb.gov/case/28-CA-289640,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+Jamaica Hospital Medical Center,2022-03-30,Queens,NY,https://www.nlrb.gov/case/29-CA-293381,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 "James Calvetti Meats, Inc.",2022-01-13,Chicago,IL,https://www.nlrb.gov/case/13-CA-288902,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 JD's Custom Transport Inc.,2022-03-30,Morris,IL,https://www.nlrb.gov/case/25-CA-293214,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
 "JDD, Inc.",2022-03-14,Aberdeen Proving Ground,MD,https://www.nlrb.gov/case/05-CA-292208,1,8(a)(5) Refusal to Furnish Information
@@ -1707,6 +1750,7 @@ Kaiser Permanente,2022-02-23,Vancouver,WA,https://www.nlrb.gov/case/19-CA-291236
 Kaiser Permanente,2022-03-03,Portland,OR,https://www.nlrb.gov/case/19-CA-291633,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Kaiser Permanente,2022-03-22,Oakland,CA,https://www.nlrb.gov/case/32-CA-292839,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(3) Changes in Terms and Conditions of Employment
 Kaiser Permanente,2022-03-26,Walnut Creek,CA,https://www.nlrb.gov/case/32-CA-293190,5,"8(a)(4) Discharge (including Layoff and Refusal to Hire), 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(3) Discipline, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
+Kaiser Permanente,2022-04-04,Hillsboro,OR,https://www.nlrb.gov/case/19-CA-293422,1,8(a)(1) Weingarten
 Kaiser Permanente Bernard J. Tyson School of Medicine,2022-02-11,Pasadena,CA,https://www.nlrb.gov/case/21-CA-290603,6,"8(a)(2) Assistance, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(4) Discharge (including Layoff and Refusal to Hire), and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Kaiser Permanente Hawai'i Region,2022-01-31,Honolulu,HI,https://www.nlrb.gov/case/20-CA-289753,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Kaiser Permanente Hawai'i Region,2022-02-07,Honolulu,HI,https://www.nlrb.gov/case/20-CA-290207,1,8(a)(5) Refusal to Furnish Information
@@ -1738,6 +1782,7 @@ KENTUCKY EDUCATION ASSOCIATION,2022-02-18,Frankfort,KY,https://www.nlrb.gov/case
 Keolis NA,2022-02-22,Fort Lauderdale,FL,https://www.nlrb.gov/case/12-CA-291010,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Keolis NA Inc.,2022-03-29,Fort Lauderdale,FL,https://www.nlrb.gov/case/12-CA-293107,1,8(a)(5) Refusal to Furnish Information
 "Keolis Transit America, Inc.",2022-03-24,Greensboro,NC,https://www.nlrb.gov/case/10-CA-292833,2,8(a)(5) Failure to Sign Agreement and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"Keolis Transit Services, LLC",2022-04-04,Leesburg,VA,https://www.nlrb.gov/case/05-CA-293513,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Refusal to Furnish Information
 "Kerry, Inc.",2022-02-22,Melrose Park,IL,https://www.nlrb.gov/case/13-CA-290967,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 KETT TOOL,2022-01-07,Cincinnati,OH,https://www.nlrb.gov/case/09-CA-288698,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 KETTERING HEALTH NETWORK/SOIN,2022-03-07,Beavercreek,OH,https://www.nlrb.gov/case/09-CA-291954,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -1771,12 +1816,13 @@ Kroger,2022-03-29,Saint Clairsville,OH,https://www.nlrb.gov/case/08-CA-293145,2,
 Kroger,2022-03-29,Saint Clairsville,OH,https://www.nlrb.gov/case/08-CA-293147,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Changes in Terms and Conditions of Employment"
 Kroger Texas LP,2022-01-14,Shenandoah,TX,https://www.nlrb.gov/case/16-CA-289018,1,8(a)(5) Failure to Sign Agreement
 "Kroger Texas, L.P.",2022-03-08,Shreveport,LA,https://www.nlrb.gov/case/15-CA-291795,1,8(a)(5) Refusal to Furnish Information
+"Kroger, Inc. dba Ralphs Grocery Co.",2022-04-01,Los Angeles,CA,https://www.nlrb.gov/case/31-CA-293485,1,8(a)(5) Refusal to Furnish Information
 "Kroger, Inc. dba Ralphs Grocery Company",2022-03-04,Los Angeles,CA,https://www.nlrb.gov/case/31-CA-291942,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Kroger, Inc. dba Ralphs Grocery Company",2022-03-08,Los Angeles,CA,https://www.nlrb.gov/case/31-CA-291993,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Kroger, Inc. dba Ralphs Grocery Company",2022-03-11,Los Angeles,CA,https://www.nlrb.gov/case/31-CA-292243,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "Kroger, Inc. dba Ralphs Grocery Company",2022-03-22,Los Angeles,CA,https://www.nlrb.gov/case/31-CA-292801,1,8(a)(1) Interrogation (including Polling)
 Kung Fu Tea,2022-01-26,Midland,TX,https://www.nlrb.gov/case/16-CA-289627,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
-Kura Revolving Sushi Bar,2022-03-18,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-292766,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Kura Revolving Sushi Bar,2022-03-18,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-292766,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Kuraray MonoSol,2022-01-13,La Porte,IN,https://www.nlrb.gov/case/25-CA-289002,2,8(a)(2) Domination and 8(a)(2) Assistance
 Kuraray MonoSol,2022-01-25,La Porte,IN,https://www.nlrb.gov/case/25-CA-289470,1,8(a)(1) Coercive Rules
 Kuraray MonoSol,2022-03-01,La Porte,IN,https://www.nlrb.gov/case/25-CA-291481,12,"8(a)(3) Discipline, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(4) Discipline, 8(a)(1) Weingarten, 8(a)(1) Coercive Rules, 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(5) Refusal to Recognize, 8(a)(2) Assistance, 8(a)(2) Domination, 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(1) Coercive Actions (Surveillance, etc), and 8(a)(4) Discharge (including Layoff and Refusal to Hire)"
@@ -1814,6 +1860,7 @@ LeafGuard,2022-01-31,Pennsauken,NJ,https://www.nlrb.gov/case/04-CA-289811,1,"8(a
 Lear Corporation,2022-02-14,Brookwood,AL,https://www.nlrb.gov/case/10-CA-290550,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Lear/IMA,2022-03-24,Detroit,MI,https://www.nlrb.gov/case/07-CA-292909,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Leed Himmel Industries,2022-01-12,Hamden,CT,https://www.nlrb.gov/case/01-CA-288864,1,8(a)(5) Refusal to Furnish Information
+Legacy (formerly iLead Worldwide),2022-04-04,Houston,TX,https://www.nlrb.gov/case/16-CA-293382,1,8(a)(4) Discharge (including Layoff and Refusal to Hire)
 Legal Aid Services of Oregon,2022-03-29,Portland,OR,https://www.nlrb.gov/case/19-CA-293169,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Lehigh Cement,2022-01-13,Seattle,WA,https://www.nlrb.gov/case/19-CA-288904,2,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(1) Coercive Actions (Surveillance, etc)"
 Lehigh Industrial Maintenance LLC,2022-04-01,Birdsboro,PA,https://www.nlrb.gov/case/04-CA-293311,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -1832,6 +1879,7 @@ Life Care Hospital of Fort Worth,2022-01-25,Fort Worth,TX,https://www.nlrb.gov/c
 "LifeCare Ambulance, Inc.",2022-01-13,Elyria,OH,https://www.nlrb.gov/case/08-CA-288978,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 LIMBACH COMPANY,2022-01-10,Wilmington,MA,https://www.nlrb.gov/case/01-CA-288765,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(3) Changes in Terms and Conditions of Employment, and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
 Lincolnwood Rehabilitation and Healthcare,2022-01-12,North Providence,RI,https://www.nlrb.gov/case/01-CA-288871,1,8(a)(5) Refusal to Furnish Information
+"Linde Gas & Equipment, Inc.",2022-04-01,Cranston,RI,https://www.nlrb.gov/case/01-CA-293390,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Linden Farms Food Corp.,2022-02-17,Brooklyn,NY,https://www.nlrb.gov/case/29-CA-290848,1,8(a)(5) Refusal to Furnish Information
 Lineage Logistics,2022-02-16,Geneva,IL,https://www.nlrb.gov/case/13-CA-290745,1,8(a)(3) Discipline
 "Linear Motion, LLC",2022-01-25,Saginaw,MI,https://www.nlrb.gov/case/07-CA-289481,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
@@ -1858,10 +1906,12 @@ LM Carpet Cleaning Resurfacing & Power Washing,2022-02-15,Mesquite,TX,https://ww
 "Local 155, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO (Lear/IMAima",2022-03-25,Detroit,MI,https://www.nlrb.gov/case/07-CB-292990,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 160, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO (General Motors,  LLC)",2022-03-10,Warren,MI,https://www.nlrb.gov/case/07-CB-292138,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 1640, American Federation of State, County and Municipal Employees (AFSCME), AFL-CIO (Community Health and Social Services Center)",2022-03-28,Detroit,MI,https://www.nlrb.gov/case/07-CB-293290,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"Local 1700, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO, (Stellantis)",2022-03-30,Sterling Heights,MI,https://www.nlrb.gov/case/07-CB-293456,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Coercion, incl'g Statements and Violence"
 "Local 2-1010, United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, AFL-CIO, CLC (Graphic Packaging International, LLC)",2022-02-16,Kalamazoo,MI,https://www.nlrb.gov/case/07-CB-290807,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 2256, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO (Accident Fund Insurance Company of America)",2022-03-16,Lansing,MI,https://www.nlrb.gov/case/07-CB-292286,2,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees) and 8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
 "Local 2280, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW), AFL-CIO (Ford Motor Company)",2022-01-18,Sterling Heights,MI,https://www.nlrb.gov/case/07-CB-289303,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 24, UNITE-HERE!, AFL-CIO (MotorCity Casino Hotel)",2022-01-10,Detroit,MI,https://www.nlrb.gov/case/07-CB-288717,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"Local 243, International Brotherhood of Teamsters (IBT) (DHT Transportation)",2022-04-01,Detroit,MI,https://www.nlrb.gov/case/07-CB-293486,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 2911, United Steelworkers (USW) (Cleveland Cliffs)",2022-01-25,Weirton,WV,https://www.nlrb.gov/case/06-CB-289432,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 295, America Postal Workers Union (APWU), AFL-CIO (United States Postal Service)",2022-03-25,Detroit,MI,https://www.nlrb.gov/case/07-CB-293075,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 295, American Postal Workers Union (APWU), AFL-CIO (United States Postal Service)",2022-02-02,Detroit,MI,https://www.nlrb.gov/case/07-CB-290038,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -1869,6 +1919,7 @@ LM Carpet Cleaning Resurfacing & Power Washing,2022-02-15,Mesquite,TX,https://ww
 "Local 295, American Postal Workers Union (APWU), AFL-CIO and National, American Postal Workers Union (APWU), AFL-CIO (United States Postal Service)",2022-01-03,Dearborn,MI,https://www.nlrb.gov/case/07-CB-288436,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 299, International Brotherhood of Teamsters (IBT) (Minority Auto Handling Specialists)",2022-01-25,Woodhaven,MI,https://www.nlrb.gov/case/07-CB-289552,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 300, Central Michigan Area, American Postal Workers Union (APWU), AFL-CIO (United States Postal Service)",2022-02-18,Lansing,MI,https://www.nlrb.gov/case/07-CB-290962,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"Local 3000, International Union, United Automobile, Aerospace and Agricultural Implement Workers of America (UAW). AFL-CIO (Ford Motor Company)",2022-03-24,Flat Rock,MI,https://www.nlrb.gov/case/07-CB-293451,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Local 324, International Union of Operating Engineers (IUOE), AFL-CIO (Accent Controls, Inc.)",2022-01-11,Warren,MI,https://www.nlrb.gov/case/07-CB-288748,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Local 32BJ (Allied),2022-02-22,Manhattan,NY,https://www.nlrb.gov/case/02-CB-291011,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Local 32BJ SEIU,2022-03-17,Manhattan,NY,https://www.nlrb.gov/case/02-CB-292424,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -1961,6 +2012,7 @@ Luxor Hotel & Casino,2022-01-18,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-289
 M. Chasen and Son,2022-02-18,Irvington,NJ,https://www.nlrb.gov/case/22-CA-290973,2,"8(a)(1) Interrogation (including Polling) and 8(a)(1) Coercive Actions (Surveillance, etc)"
 M. Chasen and Son,2022-03-08,Irvington,NJ,https://www.nlrb.gov/case/22-CA-291822,3,"8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(3) Changes in Terms and Conditions of Employment, and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "M1 Support Services, L.P.",2022-03-31,Columbus AFB,MS,https://www.nlrb.gov/case/15-CA-293287,1,8(a)(5) Refusal to Furnish Information
+"M1 Support Services, L.P.",2022-04-04,Columbus AFB,MS,https://www.nlrb.gov/case/15-CA-293403,1,8(a)(5) Refusal to Furnish Information
 Mack Truck Inc. Lehigh Valley Operations,2022-03-25,Macungie,PA,https://www.nlrb.gov/case/04-CA-292955,1,8(a)(1) Coercive Rules
 MacLellan Integrated Services,2022-02-17,Sterling Heights,MI,https://www.nlrb.gov/case/07-CA-290939,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(5) Refusal to Furnish Information"
 Macy's,2022-03-22,Palo Alto,CA,https://www.nlrb.gov/case/32-CA-292868,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
@@ -1996,8 +2048,12 @@ MARTINREA HEAVY STAMPING,2022-01-03,Shelbyville,KY,https://www.nlrb.gov/case/09-
 Mason District Hospital,2022-02-22,Havana,IL,https://www.nlrb.gov/case/25-CA-291000,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Mass Electric Construction Company,2022-03-25,Cheverly,MD,https://www.nlrb.gov/case/05-CA-293100,2,8(a)(1) Weingarten and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Massachusetts Museum of Contemporary Art,2022-01-10,North Adams,MA,https://www.nlrb.gov/case/01-CA-288703,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+MASSACHUSETTS NURES ASSOCIATION (Saint Luke's Hospital),2022-04-01,New Bedford,MA,https://www.nlrb.gov/case/01-CB-293394,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Massachusetts Nurses Association,2022-02-15,Worcester,MA,https://www.nlrb.gov/case/01-CB-290631,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
+Massachusetts Nurses Association,2022-04-01,New Bedford,MA,https://www.nlrb.gov/case/01-CB-293402,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+MASSACHUSETTS NURSES ASSOCIATION (Saint Luke's Hospital),2022-04-01,New Bedford,MA,https://www.nlrb.gov/case/01-CB-293377,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Massachusetts Nurses Association (Saint Vincent Hospital),2022-01-11,Worcester,MA,https://www.nlrb.gov/case/01-CB-288763,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
+Massachusetts Nurses Association (St. Luke’s Hospital),2022-03-31,New Bedford,MA,https://www.nlrb.gov/case/01-CB-293430,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Massachusetts Teachers Association (MTA),2022-02-09,Quincy,MA,https://www.nlrb.gov/case/01-CA-290352,1,8(a)(5) Refusal to Furnish Information
 Matador Men’s Grooming,2022-02-02,San Antonio,TX,https://www.nlrb.gov/case/16-CA-290040,1,8(a)(1) Coercive Rules
 Mauser Corporation,2022-02-03,Addison,IL,https://www.nlrb.gov/case/13-CA-289980,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -2011,7 +2067,7 @@ Mayo Clinic Health Systems Mankato,2022-03-04,Mankato,MN,https://www.nlrb.gov/ca
 "Mc4 Construction, LLC",2022-03-14,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-292312,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Rules"
 McDonald's,2022-02-22,Powdersville,SC,https://www.nlrb.gov/case/10-CA-290959,1,8(a)(1) Coercive Rules
 McLaren Macomb,2022-03-02,Mount Clemens,MI,https://www.nlrb.gov/case/07-CA-291549,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
-Mclaren Oakland,2022-03-22,Pontiac,MI,https://www.nlrb.gov/case/07-CA-292851,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+McLaren Oakland,2022-03-22,Pontiac,MI,https://www.nlrb.gov/case/07-CA-292851,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 MCLEAN HOSPITAL,2022-03-14,Belmont,MA,https://www.nlrb.gov/case/01-CA-292150,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 McMenamins,2022-01-10,Troutdale,OR,https://www.nlrb.gov/case/19-CA-288751,1,8(a)(1) Coercive Rules
 Mecanica Scientific Services Corp.,2022-03-23,Oxnard,CA,https://www.nlrb.gov/case/31-CA-292866,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -2064,6 +2120,7 @@ Minority Auto Handling Specialist,2022-01-25,Woodhaven,MI,https://www.nlrb.gov/c
 Mirage Hotel and Casino,2022-03-22,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-292730,3,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), and 8(a)(5) Refusal to Furnish Information"
 "Mirarchi Brothers, Inc.",2022-02-11,Bensalem,PA,https://www.nlrb.gov/case/04-CA-290428,1,8(a)(5) Refusal to Furnish Information
 Mirisata LLC,2022-03-07,Portland,OR,https://www.nlrb.gov/case/19-CA-291770,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
+Mirisata LLC,2022-04-01,Portland,OR,https://www.nlrb.gov/case/19-CA-293409,2,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Mission Foods, a Division of Gruma Corporation",2022-02-14,Pueblo,CO,https://www.nlrb.gov/case/27-CA-290575,1,8(a)(5) Refusal to Furnish Information
 Mission Point Health Campus of Jackson,2022-02-10,Jackson,MI,https://www.nlrb.gov/case/07-CA-290533,1,8(a)(3) Discipline
 "Mission Support and Test Services, LLC",2022-02-16,North Las Vegas,NV,https://www.nlrb.gov/case/28-CA-290751,4,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], and 8(a)(5) Refusal to Recognize"
@@ -2090,13 +2147,16 @@ Montage Mountain Resorts LP,2022-01-24,Scranton,PA,https://www.nlrb.gov/case/04-
 Montefiore Medical Center Vaccination Program -Atrium,2022-03-03,Bronx,NY,https://www.nlrb.gov/case/02-CA-291680,1,8(a)(1) Discharge of supervisor (Parker-Robb Chevrolet)
 "Morrison Health Care Food Services, A Division of Compass Group",2022-02-11,Pascagoula,MS,https://www.nlrb.gov/case/15-CA-290687,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Mortenson Engineering Services, Inc.",2022-02-15,Salt Lake City,UT,https://www.nlrb.gov/case/27-CA-290737,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Morton Salt,2022-03-17,Painesville,OH,https://www.nlrb.gov/case/08-CA-292692,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Motor Appliance Corporation,2022-02-10,Washington,MO,https://www.nlrb.gov/case/14-CA-290381,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Motor Appliance Corporation,2022-02-10,Washington,MO,https://www.nlrb.gov/case/14-CA-290407,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Motor Appliance Corporation (Charger Division),2022-02-09,Washington,MO,https://www.nlrb.gov/case/14-CA-290327,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 "Mount Kisco Country Club, Inc.",2022-03-16,Mount Kisco,NY,https://www.nlrb.gov/case/02-CA-292444,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Mount Lebanon Rehab & Wellness Center,2022-03-31,Pittsburgh,PA,https://www.nlrb.gov/case/06-CA-293448,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(3) Changes in Terms and Conditions of Employment
 Mount Sinai Hospital,2022-01-18,New York,NY,https://www.nlrb.gov/case/02-CA-289188,1,8(a)(5) Refusal to Furnish Information
 Mount Sinai Medical Center of Chicago,2022-01-14,Chicago,IL,https://www.nlrb.gov/case/13-CA-289007,1,8(a)(3) Union Security Related Actions
 Mount Sinai Medical Center of Chicago,2022-01-14,Chicago,IL,https://www.nlrb.gov/case/13-CA-289009,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+Mount Sinai Morningside-West,2022-04-04,New York,NY,https://www.nlrb.gov/case/02-CA-293419,2,"8(a)(1) Coercive Rules and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Mountain Elegance Furniture,2022-03-24,Cle Elum,WA,https://www.nlrb.gov/case/19-CA-292855,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Mozilla,2022-02-09,Mountain View,CA,https://www.nlrb.gov/case/32-CA-290382,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 MPStar Professionals LLC,2022-02-28,Boston,MA,https://www.nlrb.gov/case/01-CA-291402,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(1) Discharge of supervisor (Parker-Robb Chevrolet)"
@@ -2139,11 +2199,13 @@ MyCity Transportation,2022-03-08,Fort Lauderdale,FL,https://www.nlrb.gov/case/12
 "NALC Branch 142",2022-03-22,Washington,DC,https://www.nlrb.gov/case/05-CB-292784,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NALC Branch 142 (Capitol) (United States Postal Service)",2022-01-19,Washington,DC,https://www.nlrb.gov/case/05-CB-289282,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NALC Branch 233 Columbia South Carolina (United States Postal Service)",2022-03-07,Columbia,SC,https://www.nlrb.gov/case/10-CB-291707,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"NALC Branch 248 (United States Postal Service)",2022-04-04,Asheville,NC,https://www.nlrb.gov/case/10-CB-293415,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NALC Branch 461 (United States Postal Service)",2022-03-25,Winston-Salem,NC,https://www.nlrb.gov/case/10-CB-292876,2,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
 "NALC Branch 507 (United States Postal Service)",2022-01-10,Madison,WI,https://www.nlrb.gov/case/18-CB-288718,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NALC Branch 507 (United States Postal Service)",2022-02-10,Madison,WI,https://www.nlrb.gov/case/18-CB-290420,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NALC Branch 86",2022-01-17,South Windsor,CT,https://www.nlrb.gov/case/01-CB-288989,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NALC Branch 86",2022-02-02,South Windsor,CT,https://www.nlrb.gov/case/01-CB-290021,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"NALC Keystone Local 157 (United States Postal Service)",2022-04-04,Philadelphia,PA,https://www.nlrb.gov/case/04-CB-293435,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NALC Pioneer Branch 2 (United States Postal Service)",2022-03-22,Milwaukee,WI,https://www.nlrb.gov/case/18-CB-292640,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 "NALC, Branch 3755 (United States Postal Service)",2022-03-04,Laurel,MD,https://www.nlrb.gov/case/05-CB-291696,2,8(b)(1)(B) Other Allegations and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 "National Association Letter Carriers, Branch 214 (United States Postal Service)",2022-02-24,Novato,CA,https://www.nlrb.gov/case/20-CB-291286,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -2157,6 +2219,7 @@ National Association of Letter Carriers (United States Postal Service),2022-03-0
 National Association of Letter Carriers (United States Postal Service),2022-03-09,Salem,VA,https://www.nlrb.gov/case/10-CB-291968,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 National Association of Letter Carriers (United States Postal Service),2022-03-22,Oakland,CA,https://www.nlrb.gov/case/32-CB-292816,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 National Association of Letter Carriers (United States Postal Service),2022-03-25,Sugar Land,TX,https://www.nlrb.gov/case/16-CB-293066,4,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining, 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access, 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access, and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
+National Association of Letter Carriers (United States Postal Service),2022-04-04,Asheville,NC,https://www.nlrb.gov/case/10-CB-293387,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 National Association of Letter Carriers Branch 214 (United States Postal Service),2022-02-07,San Francisco,CA,https://www.nlrb.gov/case/20-CB-290205,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 National Association of Letter Carriers Branch 24 (United States Postal Service),2022-02-24,Los Angeles,CA,https://www.nlrb.gov/case/31-CB-291250,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NATIONAL ASSOCIATION OF LETTER CARRIERS BRANCH 34 (United States Postal Service)",2022-03-25,Boston,MA,https://www.nlrb.gov/case/01-CB-293055,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -2276,6 +2339,8 @@ Notting Hill of West Bloomfield,2022-02-07,West Bloomfield,MI,https://www.nlrb.g
 NPL Construction Company,2022-02-22,Bloomington,IL,https://www.nlrb.gov/case/25-CA-291034,5,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(5) Refusal to Furnish Information, 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(3) Changes in Terms and Conditions of Employment"
 NPMHU Local 303 (United States Postal Service),2022-03-29,Los Angeles,CA,https://www.nlrb.gov/case/31-CB-293185,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "NRT Bus, Inc.",2022-04-01,Worcester,MA,https://www.nlrb.gov/case/01-CA-293360,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"NRT Bus, Inc.",2022-04-01,Worcester,MA,https://www.nlrb.gov/case/01-CA-293374,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+"NRT Bus, Inc.",2022-04-01,Worcester,MA,https://www.nlrb.gov/case/01-CA-293385,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(3) Changes in Terms and Conditions of Employment
 Nucera Solutions,2022-01-10,Barnsdall,OK,https://www.nlrb.gov/case/14-CA-288655,1,8(a)(5) Refusal to Furnish Information
 Nug Wellness,2022-02-18,San Leandro,CA,https://www.nlrb.gov/case/32-CA-290952,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "NurseFirst, LLC",2022-02-09,Knoxville,TN,https://www.nlrb.gov/case/10-CA-290315,1,8(a)(1) Coercive Rules
@@ -2325,10 +2390,10 @@ Our Lady of Peace Nursing Care Residence,2022-03-03,Lewiston,NY,https://www.nlrb
 Our Lady of Peace Nursing Care Residence,2022-03-23,Lewiston,NY,https://www.nlrb.gov/case/03-CA-292698,1,8(a)(3) Discipline
 "P. Santos Co., Inc.",2022-02-11,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-290504,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Pace Industries,2022-01-12,Loyalhanna,PA,https://www.nlrb.gov/case/06-CA-288831,2,8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Pacific Corp. d/b/a Rocky Mountain Power,2022-03-21,Rock Springs,WY,https://www.nlrb.gov/case/27-CA-292778,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Pacific Maritime Association,2022-03-23,Mercer Island,WA,https://www.nlrb.gov/case/19-CA-292775,3,"8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(3) Changes in Terms and Conditions of Employment, and 8(a)(3) Discipline"
 Pacific Maritime Association,2022-03-31,Long Beach,CA,https://www.nlrb.gov/case/21-CA-293329,1,8(a)(3) Discipline
 "Pacific Northwest Regional Council of Carpenters (Dawson Construction, LLC)",2022-03-14,Bellingham,WA,https://www.nlrb.gov/case/19-CB-292252,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
-Pacificorp/Rocky Mountain Power,2022-03-21,Rock Springs,WY,https://www.nlrb.gov/case/27-CA-292778,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Packaging Corporation of America,2022-02-17,Nampa,ID,https://www.nlrb.gov/case/27-CA-290833,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
 Packaging Corporation of America,2022-03-07,Plymouth,MI,https://www.nlrb.gov/case/07-CA-291870,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Packers Sanitation Services Inc. (PSSI),2022-02-14,Waco,TX,https://www.nlrb.gov/case/16-CA-290688,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
@@ -2345,6 +2410,7 @@ Paragon Protective Services,2022-03-25,Kenner,LA,https://www.nlrb.gov/case/15-CA
 "Paragon Systems, Inc.",2022-01-25,New Orleans,LA,https://www.nlrb.gov/case/15-CA-289479,3,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Failure to Sign Agreement, and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
 "Paragon Systems, Inc.",2022-02-10,Cleveland,OH,https://www.nlrb.gov/case/08-CA-290370,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Paragon Systems, Inc.",2022-03-29,New York,NY,https://www.nlrb.gov/case/29-CA-293288,1,8(a)(1) Weingarten
+"Paragon Systems, Inc.",2022-04-01,Bethlehem,PA,https://www.nlrb.gov/case/04-CA-293483,1,8(a)(3) Changes in Terms and Conditions of Employment
 "Paragon Systems, Inc.",2022-04-01,Metairie,LA,https://www.nlrb.gov/case/15-CA-293344,1,8(a)(3) Discipline
 Paramount Convalescent Hospital,2022-03-21,Paramount,CA,https://www.nlrb.gov/case/21-CA-292650,1,8(a)(5) Refusal to Furnish Information
 Paramount Convalescent Hospital,2022-03-21,Paramount,CA,https://www.nlrb.gov/case/21-CA-292657,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -2378,18 +2444,18 @@ Pepsi Beverage Company San Diego,2022-01-26,Lakeside,CA,https://www.nlrb.gov/cas
 Pepsi Cola Bottling Co.,2022-03-18,Springfield,IL,https://www.nlrb.gov/case/25-CA-292505,3,"8(a)(3) Changes in Terms and Conditions of Employment, 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
 Pepsico,2022-02-23,Newport News,VA,https://www.nlrb.gov/case/05-CA-291398,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 PepsiCo,2022-01-21,Latham,NY,https://www.nlrb.gov/case/03-CA-289218,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Pepsico Beverages Company,2022-04-01,Muncie,IN,https://www.nlrb.gov/case/25-CA-293375,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 PepsiCo Beverages North America,2022-02-03,Jenkins,PA,https://www.nlrb.gov/case/04-CA-290037,1,8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes]
 PEPSICO BOTTLING GROUP,2022-02-07,Burnsville,MN,https://www.nlrb.gov/case/18-CA-290174,5,"8(a)(3) Discipline, 8(a)(2) Assistance, 8(a)(1) Coercive Rules, 8(a)(2) Domination, and 8(a)(1) Coercive Actions (Surveillance, etc)"
 Pepsico PBNA,2022-01-05,Detroit,MI,https://www.nlrb.gov/case/07-CA-288474,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Pequonnock Iron Works, Inc.",2022-01-20,Bridgeport,CT,https://www.nlrb.gov/case/01-CA-289189,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Peraton, Inc. & Aleut Aerospace Engineering, LLC, joint employers",2022-01-12,Cudjoe Key,FL,https://www.nlrb.gov/case/12-CA-288892,2,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(5) Refusal to Furnish Information
 "Perdue Agribusiness, LLC",2022-01-27,Chesapeake,VA,https://www.nlrb.gov/case/05-CA-289703,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
-"Perfection Heating, Air Conditioning and Refrigeration",2022-03-21,Evansville,IN,https://www.nlrb.gov/case/25-CA-292574,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "Perfection Heating, Air Conditioning and Refrigeration",2022-03-28,Evansville,IN,https://www.nlrb.gov/case/25-CA-293148,1,8(a)(3) Changes in Terms and Conditions of Employment
 "Perfection Heating, Air Conditioning and Refrigeration",2022-03-28,Evansville,IN,https://www.nlrb.gov/case/25-CA-293162,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
+"Perfection Heating, Air Conditioning, and Refrigeration",2022-03-21,Evansville,IN,https://www.nlrb.gov/case/25-CA-292574,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "Performance Food Group, Inc. d/b/a PFG Thoms Proestler Company",2022-02-01,Rock Island,IL,https://www.nlrb.gov/case/25-CA-289852,3,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(5) Refusal to Furnish Information, and 8(a)(1) Coercive Actions (Surveillance, etc)"
 PERFORMANCE FOODSERVICE BOSTON (FORMERLY REINHART FOODSERVICE),2022-01-14,Taunton,MA,https://www.nlrb.gov/case/01-CA-289028,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
-"Perrigo New York, Inc.",2022-03-21,Bronx,NY,https://www.nlrb.gov/case/02-CB-292546,1,8(b)(1)(B) Other Allegations
 Perry's Ice Cream,2022-03-02,Akron,NY,https://www.nlrb.gov/case/03-CA-291477,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Perrysburg Pet Lodge and Spa,2022-02-28,Perrysburg,OH,https://www.nlrb.gov/case/08-CA-291602,3,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(3) Changes in Terms and Conditions of Employment"
 Personal Healthcare Facilities (Eden Rehabilitation and Nursing Center),2022-02-02,Eden,NY,https://www.nlrb.gov/case/03-CA-289908,1,8(a)(1) Denial of Access
@@ -2399,7 +2465,9 @@ Pfeiffer Winery,2022-03-15,Junction City,OR,https://www.nlrb.gov/case/19-CA-2922
 Phillips66,2022-03-23,Ponca City,OK,https://www.nlrb.gov/case/14-CA-292789,1,8(a)(5) Refusal to Furnish Information
 "Phoenix Retail Group, Inc.",2022-02-07,Morgantown,WV,https://www.nlrb.gov/case/06-CA-290291,1,8(a)(3) Refusal to Reinstate E'ee/Striker (e.g. Laidlaw)
 "Pick Quick Foods, Inc. d/b/a Key Food",2022-03-30,Hempstead,NY,https://www.nlrb.gov/case/29-CA-293213,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Rules"
+PICS Inventory Specialists,2022-04-04,Holly,MI,https://www.nlrb.gov/case/12-CA-293428,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "Piedmont Health Services, Inc.",2022-01-26,Chapel Hill,NC,https://www.nlrb.gov/case/10-CA-289547,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+"Pietsch McWebb Hospitality Group, LLC",2022-04-04,Saugatuck,MI,https://www.nlrb.gov/case/07-CA-293462,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Rules"
 Pilgrim's Pride,2022-03-02,Arcadia,WI,https://www.nlrb.gov/case/18-CA-291572,3,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Rules, and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Pilgrims Pride,2022-01-28,Carrollton,GA,https://www.nlrb.gov/case/10-CA-289659,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Pilsen Wellness Center,2022-03-22,Chicago,IL,https://www.nlrb.gov/case/13-CA-292734,1,8(a)(5) Refusal to Furnish Information
@@ -2466,7 +2534,6 @@ Profusion Industries,2022-01-03,Marietta (Township),OH,https://www.nlrb.gov/case
 Providence Oregon dba Providence Home Health & Hospice,2022-02-11,Portland,OR,https://www.nlrb.gov/case/19-CA-290486,2,8(a)(1) Coercive Rules and 8(a)(1) Weingarten
 Providence Urgent Care Center Ascension,2022-01-20,Washington,DC,https://www.nlrb.gov/case/05-CA-289264,2,8(a)(5) Refusal to Furnish Information and 8(a)(3) Changes in Terms and Conditions of Employment
 Prudential-Center Sports Arena N.J. Devils Entertainment,2022-01-20,Newark,NJ,https://www.nlrb.gov/case/22-CA-289489,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
-Public Inquiry Christopher Bartone,2022-03-17,Painesville,OH,https://www.nlrb.gov/case/08-CA-292692,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Public Service Employees Local Union 572 (Professional Contract Services, Inc.)",2022-01-21,Portsmouth,VA,https://www.nlrb.gov/case/05-CB-289507,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Puerto Rico Telephone  Co./ CLARO,2022-03-28,San Juan,PR,https://www.nlrb.gov/case/12-CA-292940,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Puma Energy Caribe, LLC",2022-01-10,San Juan,PR,https://www.nlrb.gov/case/12-CA-288913,2,8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes] and 8(a)(3) Changes in Terms and Conditions of Employment
@@ -2502,6 +2569,7 @@ Recology,2022-01-07,Seattle,WA,https://www.nlrb.gov/case/19-CA-288651,1,8(a)(5) 
 "Recreational Equipment, Inc. t/d/b/a REI",2022-02-16,Bedford,PA,https://www.nlrb.gov/case/06-CA-290817,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Red Robin,2022-01-07,Monroeville,PA,https://www.nlrb.gov/case/06-CA-288598,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "Red Rock Resorts, Inc., as a single employer with Station Casinos LLC and NP Boulder LLC d/b/a Boulder Station Hotel & Casino",2022-02-16,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-290825,3,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Rules, and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+"Red Rock Resorts, Inc., as a single employer with Station Casinos LLC and NP Boulder LLC d/b/a Boulder Station Hotel & Casino",2022-03-31,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-293406,2,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "Red Rock Resorts, Inc., as a single employer with Station Casinos LLC and NP Palace LLC d/b/a Palace Station Hotel & Casino",2022-03-08,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-291977,4,"8(a)(3) Changes in Terms and Conditions of Employment, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), and 8(a)(1) Coercive Actions (Surveillance, etc)"
 "Red Rock Resorts, Inc., as a single employer with Station Casinos LLC and NP Red Rock, LLC d/b/a Red Rock Casino Resort and Spa",2022-01-19,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-289304,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
 "Red Rock Resorts, Inc., as a single employer with Station Casinos LLC and NP Red Rock, LLC d/b/a Red Rock Casino Resort and Spa",2022-02-01,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-289951,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
@@ -2550,7 +2618,7 @@ Rite Aid,2022-01-25,Waterford,MI,https://www.nlrb.gov/case/07-CA-289478,4,"8(a)(
 River Oaks Care Center,2022-02-11,Steele,NA,https://www.nlrb.gov/case/14-CA-290433,1,8(a)(5) Refusal to Furnish Information
 River Oaks Care Center,2022-02-16,Steele,MO,https://www.nlrb.gov/case/15-CA-290824,1,8(a)(5) Refusal to Furnish Information
 "Riverside Healthcare System, L.P. d/b/a Riverside Community Hospital",2022-01-18,Riverside,CA,https://www.nlrb.gov/case/21-CA-289048,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
-Riviana Foods,2022-03-04,Memphis,TN,https://www.nlrb.gov/case/15-CA-291745,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+Riviana Foods,2022-03-04,Memphis,TN,https://www.nlrb.gov/case/15-CA-291745,3,"8(a)(3) Discipline, 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Riviana Foods,2022-03-16,Memphis,TN,https://www.nlrb.gov/case/15-CA-292363,4,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(3) Changes in Terms and Conditions of Employment, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(3) Changes in Terms and Conditions of Employment"
 "Robert Basil Buick GMC, Inc.",2022-02-01,Orchard Park,NY,https://www.nlrb.gov/case/03-CA-289813,1,8(a)(3) Union Security Related Actions
 "Robert Bosch, LLC",2022-01-13,Saint Joseph,MI,https://www.nlrb.gov/case/07-CA-289152,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -2626,7 +2694,7 @@ Santa Monica Proper Hotel,2022-03-30,Santa Monica,CA,https://www.nlrb.gov/case/3
 SAS Merchandising,2022-02-02,Hartford,NY,https://www.nlrb.gov/case/03-CA-289906,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Sauer Brands Inc.,2022-01-10,Richmond,VA,https://www.nlrb.gov/case/05-CA-288724,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Sauer Brands, Inc.",2022-01-14,Washington,DC,https://www.nlrb.gov/case/05-CA-288922,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
-Saugus Rehabilitation and Nursing Center,2022-03-22,Saugus,MA,https://www.nlrb.gov/case/01-CA-292786,2,8(a)(5) Refusal to Furnish Information and 8(a)(3) Shutdown or Relocate/ Subcontract Unit Work
+Saugus Rehabilitation and Nursing Center,2022-03-22,Saugus,MA,https://www.nlrb.gov/case/01-CA-292786,4,"8(a)(5) Refusal to Furnish Information, 8(a)(3) Shutdown or Relocate/ Subcontract Unit Work, 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], and 8(a)(3) Discipline"
 "Schafer Driveline, LLC",2022-02-15,Fredericktown,OH,https://www.nlrb.gov/case/08-CA-290813,3,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], and 8(a)(5) Refusal to Recognize"
 Schindler Elevator Corp,2022-02-02,Henrietta,NY,https://www.nlrb.gov/case/03-CA-289904,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Schindler Elevator Corporation,2022-02-02,Henrietta,NY,https://www.nlrb.gov/case/03-CA-289874,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
@@ -2683,6 +2751,7 @@ SEIU-UHW (Kaiser Permanente),2022-02-04,Sacramento,CA,https://www.nlrb.gov/case/
 SEIU-UHW (Kaiser Permanente),2022-02-04,Sacramento,CA,https://www.nlrb.gov/case/20-CB-290106,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 SEIU-UHW (Kaiser Permanente),2022-03-02,Sacramento,CA,https://www.nlrb.gov/case/20-CB-291536,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 SEIU-UHW (Kaiser Permanente),2022-03-04,Folsom,CA,https://www.nlrb.gov/case/20-CB-291814,2,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+SEIU-UHW (San Ramon Regional Medical Center),2022-04-01,Oakland,CA,https://www.nlrb.gov/case/32-CB-293493,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 SEIU-UHW(Kaiser Permanente),2022-01-04,Anaheim,CA,https://www.nlrb.gov/case/21-CB-288430,3,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access, 8(b)(1)(A) Coercion, incl'g Statements and Violence, and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
 SEIU-UHWW (Warner Bros.),2022-03-16,Burbank,CA,https://www.nlrb.gov/case/31-CB-292416,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "SEIU, Local 1 (ABM Industrial)",2022-01-19,Chicago,IL,https://www.nlrb.gov/case/13-CB-289182,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -2736,6 +2805,7 @@ Simpson Strong-tie,2022-03-23,Riverside,CA,https://www.nlrb.gov/case/21-CA-29286
 Simsbury Volunteer Ambulance Association,2022-01-10,Simsbury,CT,https://www.nlrb.gov/case/01-CA-288721,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Sinclair Broadcast Group, DBA KOMO Television Station",2022-02-07,Seattle,WA,https://www.nlrb.gov/case/19-CA-290199,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 "Sinclair Television of Portland, LLC DBA Television Station KATU",2022-01-27,Portland,OR,https://www.nlrb.gov/case/19-CA-289644,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Siouxland Concrete Co. part of Lyman Ritchey a CRH Company,2022-04-04,South Sioux City,NE,https://www.nlrb.gov/case/14-CA-293466,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Siren Retail Corporation,2022-03-21,New York,NY,https://www.nlrb.gov/case/02-CA-292646,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Siren Retail Corporation d/b/a Starbucks,2022-02-18,Seattle,WA,https://www.nlrb.gov/case/19-CA-290905,2,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.) and 8(a)(3) Changes in Terms and Conditions of Employment"
 Site Barricades,2022-03-04,Fort Worth,TX,https://www.nlrb.gov/case/16-CA-291658,4,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(1) Interrogation (including Polling)"
@@ -2762,6 +2832,7 @@ Smithfield Foods,2022-03-10,Springfield,MA,https://www.nlrb.gov/case/01-CA-29206
 Sodexo,2022-01-03,Battle Ground,WA,https://www.nlrb.gov/case/19-CA-288427,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Sodexo at the International Monetary Fund,2022-03-21,Washington,DC,https://www.nlrb.gov/case/05-CA-292787,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Sodexo at the International Monetary Fund,2022-03-21,Washington,DC,https://www.nlrb.gov/case/05-CA-292798,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
+SOESD Gilbert Creek Child Development Center,2022-04-01,Grants Pass,OR,https://www.nlrb.gov/case/19-CA-293399,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Solar Turbines,2022-03-14,San Diego,CA,https://www.nlrb.gov/case/21-CA-292171,1,8(a)(5) Refusal to Furnish Information
 SOLIANT HEALTH,2022-01-20,Hilliard,OH,https://www.nlrb.gov/case/09-CA-289361,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
 SOLUTION ONE INDUSTRIES,2022-03-29,Lexington,KY,https://www.nlrb.gov/case/09-CA-293349,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
@@ -2782,6 +2853,7 @@ Southwestern Line Constructors Area Joint Apprenticeship Training Committee A.J.
 "sp0n, Inc., d/b/a Citizen",2022-03-09,Milwaukee,WI,https://www.nlrb.gov/case/18-CA-291966,1,8(a)(1) Weingarten
 SpArc Philadelphia,2022-02-08,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-290212,3,"8(a)(3) Changes in Terms and Conditions of Employment, 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), and 8(a)(1) Coercive Actions (Surveillance, etc)"
 SpArc Philadelphia,2022-03-11,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-292143,3,"8(a)(1) Coercive Rules, 8(a)(3) Changes in Terms and Conditions of Employment, and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+SpartanNash Company,2022-04-04,Byron Center,MI,https://www.nlrb.gov/case/07-CA-293475,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "Special Officers & Guards, SEIU Local 177 (Madison Square Garden)",2022-01-04,Brooklyn,NY,https://www.nlrb.gov/case/02-CB-288930,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Speyside Holdings LLC,2022-02-17,Highland Mills,NY,https://www.nlrb.gov/case/02-CA-290889,1,8(a)(5) Refusal to Furnish Information
 "Speyside Holdings, LLC",2022-01-21,Highland Mills,NY,https://www.nlrb.gov/case/02-CA-289376,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
@@ -2795,10 +2867,12 @@ SPFPA Western Regional Office (Triple Canopy),2022-01-20,Sacramento,CA,https://w
 "Spike Enterprise, Inc.",2022-02-28,Lemont,IL,https://www.nlrb.gov/case/13-CA-291331,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(4) Changes in Terms and Conditions of Employment"
 "Spike Enterprises, Inc.",2022-01-18,Channahon,IL,https://www.nlrb.gov/case/13-CA-289072,2,"8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Springfield Day Nursery Corporation (Square One),2022-01-28,Springfield,MA,https://www.nlrb.gov/case/01-CA-289709,1,8(a)(5) Refusal to Furnish Information
+"Sprouts Farmers Market, LLC",2022-04-01,Enterprise,NV,https://www.nlrb.gov/case/28-CA-293412,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "SSEU, Local 371 (Queens Hospital Center)",2022-01-06,Jamaica,NY,https://www.nlrb.gov/case/29-CB-288730,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 SSM Health Saint Louis University Hospital,2022-01-24,St. Louis,MO,https://www.nlrb.gov/case/14-CA-289351,2,8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 St Joseph Health System at Santa Rosa Memorial Hospital,2022-03-09,Santa Rosa,CA,https://www.nlrb.gov/case/20-CA-292039,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 St. Albans Creamery LLC,2022-03-18,Saint Albans,VT,https://www.nlrb.gov/case/03-CA-292462,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+"St. Camillus Stamford opco, LLC d/b/a Ark Health & Rehab at Saint Camillus",2022-04-01,Stamford,CT,https://www.nlrb.gov/case/01-CA-293380,1,8(a)(5) Refusal to Furnish Information
 "St. Charles Health System, Inc., dba St. Charles Medical Center - Bend",2022-03-25,Bend,OR,https://www.nlrb.gov/case/19-CA-292933,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 St. James Rehabilitation & Healthcare Center,2022-02-22,St. James,NY,https://www.nlrb.gov/case/29-CA-290966,1,8(a)(5) Refusal to Furnish Information
 St. John's Regional Medical Center (Dignity Health/Common Spirit),2022-02-02,Oxnard,CA,https://www.nlrb.gov/case/31-CA-289898,6,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(3) Changes in Terms and Conditions of Employment, 8(a)(4) Discipline, 8(a)(4) Changes in Terms and Conditions of Employment, 8(a)(1) Coercive Actions (Surveillance, etc), and 8(a)(3) Discipline"
@@ -2869,7 +2943,7 @@ Starbucks Corporation,2022-03-04,Overland Park,KS,https://www.nlrb.gov/case/14-C
 Starbucks Corporation,2022-03-07,Amherst,NY,https://www.nlrb.gov/case/03-CA-291725,2,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Starbucks Corporation,2022-03-08,Olympia,WA,https://www.nlrb.gov/case/19-CA-291860,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(3) Discipline"
 Starbucks Corporation,2022-03-09,Memphis,TN,https://www.nlrb.gov/case/15-CA-291952,1,8(a)(1) Interrogation (including Polling)
-Starbucks Corporation,2022-03-09,Overland Park,KS,https://www.nlrb.gov/case/14-CA-291958,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Starbucks Corporation,2022-03-09,Overland Park,KS,https://www.nlrb.gov/case/14-CA-291958,4,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(3) Changes in Terms and Conditions of Employment, and 8(a)(3) Discipline"
 Starbucks Corporation,2022-03-09,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-292106,4,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Rules, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(1) Coercive Rules"
 Starbucks Corporation,2022-03-10,Knoxville,TN,https://www.nlrb.gov/case/10-CA-291956,1,8(a)(1) Interrogation (including Polling)
 Starbucks Corporation,2022-03-10,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-292201,2,"8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -2891,6 +2965,12 @@ Starbucks Corporation,2022-03-28,Charlotte,NC,https://www.nlrb.gov/case/10-CA-29
 Starbucks Corporation,2022-03-29,Overland Park,KS,https://www.nlrb.gov/case/14-CA-293122,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Starbucks Corporation,2022-03-29,Overland Park,KS,https://www.nlrb.gov/case/14-CA-293124,1,8(a)(3) Changes in Terms and Conditions of Employment
 Starbucks Corporation,2022-04-01,Depew,NY,https://www.nlrb.gov/case/03-CA-293362,2,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)) and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+Starbucks Corporation,2022-04-04,Buffalo,NY,https://www.nlrb.gov/case/03-CA-293469,1,8(a)(3) Changes in Terms and Conditions of Employment
+Starbucks Corporation,2022-04-04,Buffalo,NY,https://www.nlrb.gov/case/03-CA-293489,1,8(a)(3) Discipline
+Starbucks Corporation,2022-04-04,Overland Park,KS,https://www.nlrb.gov/case/14-CA-293404,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
+Starbucks Corporation,2022-04-04,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-293522,3,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(1) Interrogation (including Polling), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Starbucks Corporation,2022-04-04,Seattle,WA,https://www.nlrb.gov/case/19-CA-293490,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(3) Changes in Terms and Conditions of Employment"
+Starbucks Corporation,2022-04-04,Seattle,WA,https://www.nlrb.gov/case/19-CA-293492,3,"8(a)(3) Changes in Terms and Conditions of Employment, 8(a)(1) Coercive Actions (Surveillance, etc), and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 STARBUCKS CORPORATION,2022-03-31,Newtonville,MA,https://www.nlrb.gov/case/01-CA-293324,3,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Start Elevator LLC,2022-01-07,Bronx,NY,https://www.nlrb.gov/case/02-CA-288581,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 Start Elevator LLC,2022-02-01,Bronx,NY,https://www.nlrb.gov/case/02-CA-290138,2,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.) and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
@@ -2898,6 +2978,7 @@ Stater Bros. Markets,2022-03-04,Santa Ana,CA,https://www.nlrb.gov/case/21-CA-291
 Stater Bros. Markets,2022-03-09,San Marcos,CA,https://www.nlrb.gov/case/21-CA-292047,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Weingarten, and 8(a)(3) Discipline"
 Stater Brothers,2022-03-04,San Bernardino,CA,https://www.nlrb.gov/case/31-CA-291806,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Stater Brothers,2022-03-04,San Bernardino,CA,https://www.nlrb.gov/case/31-CA-291813,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+States Newsroom,2022-04-01,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-293444,2,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.) and 8(a)(1) Coercive Rules"
 "Steakhouse 89, LLC",2022-02-02,Sedona,AZ,https://www.nlrb.gov/case/28-CA-290069,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "Stealth Construction, Inc.",2022-03-16,Sterling,VA,https://www.nlrb.gov/case/05-CA-292745,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Steamship Trade Association,2022-01-27,Baltimore,MD,https://www.nlrb.gov/case/05-CA-289791,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
@@ -2912,6 +2993,7 @@ Stellantis,2022-03-22,Belvidere,IL,https://www.nlrb.gov/case/25-CA-292722,3,"8(a
 Stellantis,2022-03-22,Toledo,OH,https://www.nlrb.gov/case/08-CA-292688,1,8(a)(5) Refusal to Furnish Information
 Stellantis,2022-03-28,Detroit,MI,https://www.nlrb.gov/case/07-CA-293155,1,8(a)(1) Coercive Rules
 Stellantis,2022-03-30,Warren,MI,https://www.nlrb.gov/case/07-CA-293211,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
+Stellantis,2022-04-04,Belvidere,IL,https://www.nlrb.gov/case/25-CA-293423,1,8(a)(5) Refusal to Furnish Information
 Stellantis LLC,2022-02-22,Trenton,MI,https://www.nlrb.gov/case/07-CA-291063,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Stellantis LLC,2022-02-22,Trenton,MI,https://www.nlrb.gov/case/07-CA-291107,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Stellantis LLC Jefferson North Assembly Plant,2022-03-07,Detroit,MI,https://www.nlrb.gov/case/07-CA-291805,3,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(3) Discipline, and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
@@ -2936,6 +3018,7 @@ Steward Trumbull Regional Medical Center,2022-01-14,Warren,OH,https://www.nlrb.g
 "StoneMor Partners, LP a/k/a StoneMor, Inc.",2022-01-04,Pittsburgh,PA,https://www.nlrb.gov/case/06-CA-288451,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 STONERISE CHARLESTON,2022-02-10,Charleston,WV,https://www.nlrb.gov/case/09-CA-290530,2,"8(a)(5) Refusal to Recognize and 8(a)(1) Coercive Actions (Surveillance, etc)"
 STONERISE CHARLESTON29053,2022-02-10,Charleston,NA,https://www.nlrb.gov/case/09-CA-290539,1,8(a)(5) Refusal to Furnish Information
+"Storyville Coffee Company, LLC",2022-04-04,Seattle,WA,https://www.nlrb.gov/case/19-CA-293509,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
 "Strand Book Store, Inc.",2022-02-17,New York,NY,https://www.nlrb.gov/case/02-CA-290853,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Strong Memorial Hospital,2022-01-03,Rochester,NY,https://www.nlrb.gov/case/03-CA-288348,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Strong Memorial Hospital,2022-01-03,Rochester,NY,https://www.nlrb.gov/case/03-CA-288351,1,8(a)(1) Coercive Rules
@@ -2978,14 +3061,16 @@ Syncreon,2022-03-04,Warren,MI,https://www.nlrb.gov/case/07-CA-291755,1,8(a)(3) D
 SYNQ3 Restaurant Solutions,2022-01-14,Colorado Springs,CO,https://www.nlrb.gov/case/27-CA-288951,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Sysco Central California,2022-01-19,Modesto,CA,https://www.nlrb.gov/case/32-CA-289173,1,8(a)(5) Refusal to Furnish Information
 "Sysco Central California, Inc.",2022-02-25,Modesto,CA,https://www.nlrb.gov/case/32-CA-291334,3,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], and 8(a)(1) Coercive Actions (Surveillance, etc)"
+Sysco Detroit,2022-04-01,Canton,MI,https://www.nlrb.gov/case/07-CA-293510,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Sysco Los Angeles,2022-02-17,Walnut,CA,https://www.nlrb.gov/case/21-CA-290997,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Discipline"
+Sysco Los Angeles,2022-04-04,Walnut,CA,https://www.nlrb.gov/case/21-CA-293500,1,8(a)(5) Refusal to Furnish Information
 Sysco Los Angeles - Wholesale Restaurant Food Supplies,2022-01-20,Walnut,CA,https://www.nlrb.gov/case/21-CA-289210,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Sysco of San Diego, Inc.",2022-03-29,Poway,CA,https://www.nlrb.gov/case/21-CA-293201,1,8(a)(5) Refusal to Furnish Information
 Sysco Western MN,2022-02-24,Saint Cloud,MN,https://www.nlrb.gov/case/18-CA-291170,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Sysco Western MN,2022-03-09,Saint Cloud,MN,https://www.nlrb.gov/case/18-CA-291910,1,8(a)(3) Changes in Terms and Conditions of Employment
 Sysco Western MN,2022-03-09,Saint Cloud,MN,https://www.nlrb.gov/case/18-CA-291922,1,8(a)(3) Changes in Terms and Conditions of Employment
 "T.R.S.C., Inc.",2022-02-15,Carson,CA,https://www.nlrb.gov/case/21-CA-290670,1,8(a)(5) Refusal to Furnish Information
-T&H Services,2022-03-21,Fort Carson,CO,https://www.nlrb.gov/case/27-CA-292617,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+T&H Services,2022-03-21,Fort Carson,CO,https://www.nlrb.gov/case/27-CA-292617,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 T&S FOOD SERVICES II LLC,2022-01-03,Lexington,KY,https://www.nlrb.gov/case/09-CA-288377,1,8(a)(1) Coercive Rules
 Tackl It LLC,2022-02-23,Savannah,GA,https://www.nlrb.gov/case/10-CA-291054,4,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Coercive Rules, and 8(a)(1) Interrogation (including Polling)"
 Taco Bell,2022-01-05,Fort Wayne,IN,https://www.nlrb.gov/case/25-CA-288470,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -3023,6 +3108,8 @@ Teamsters local 150 (United Parcel Systems),2022-03-25,West Sacramento,CA,https:
 "Teamsters Local 174 (OMA Construction, Inc.)",2022-01-18,Seattle,WA,https://www.nlrb.gov/case/19-CB-289097,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 Teamsters Local 177 (United Parcel Service),2022-03-04,Parsippany,NJ,https://www.nlrb.gov/case/22-CB-291746,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local 191 (UPS),2022-03-31,Stratford,CT,https://www.nlrb.gov/case/01-CB-293331,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"Teamsters Local 210 (Perrigo New York, Inc.)",2022-03-21,Bronx,NY,https://www.nlrb.gov/case/02-CB-292546,1,8(b)(1)(B) Other Allegations
+Teamsters Local 25,2022-04-04,Charlestown,MA,https://www.nlrb.gov/case/01-CB-293433,2,8(b)(2) Hiring Hall Related and 8(b)(1)(A) Hiring Halls
 Teamsters Local 251 (Johnson Brothers of Rhode Island),2022-02-14,North Kingstown,RI,https://www.nlrb.gov/case/01-CB-290591,2,"8(b)(1)(A) Coercion, incl'g Statements and Violence and 8(b)(1)(A) Picketing/Strike Actions"
 Teamsters Local 315  (United Parcel Service),2022-02-16,Martinez,CA,https://www.nlrb.gov/case/32-CB-290904,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local 315 (United Parcel Service),2022-01-21,Concord,CA,https://www.nlrb.gov/case/32-CB-289445,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -3033,6 +3120,7 @@ Teamsters Local 396 (UPS),2022-01-03,Los Angeles,CA,https://www.nlrb.gov/case/21
 Teamsters Local 396 (Waste Management Inc.),2022-02-23,Chino,CA,https://www.nlrb.gov/case/31-CB-291187,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local 396 (Waste Management Inc.),2022-02-24,Chino,CA,https://www.nlrb.gov/case/31-CB-291222,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local 455 (Cargill Protein),2022-02-16,Fort Morgan,CO,https://www.nlrb.gov/case/27-CB-290826,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+Teamsters Local 509 (T-Force Freight),2022-04-04,Greenville,SC,https://www.nlrb.gov/case/10-CB-293458,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
 Teamsters Local 533 (Keolis North America),2022-03-22,Reno,NV,https://www.nlrb.gov/case/32-CB-292825,1,8(b)(2) Union Security Related Actions
 Teamsters Local 533 (Keolis Transit America),2022-01-31,Reno,NV,https://www.nlrb.gov/case/32-CB-289843,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
 Teamsters Local 533 (Keolis Transit America),2022-02-01,Reno,NV,https://www.nlrb.gov/case/32-CB-289970,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
@@ -3053,6 +3141,7 @@ Teamsters Local 781 (Accurate Metal Fabrication),2022-03-18,Chicago,IL,https://w
 TEAMSTERS LOCAL 792 (Pepsico Bottling Group),2022-02-07,Burnsville,MN,https://www.nlrb.gov/case/18-CB-290170,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local 822 (United Parcel Service),2022-02-07,Newport News,VA,https://www.nlrb.gov/case/05-CB-290279,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local 830 (Pepsi),2022-03-22,Wilmington,DE,https://www.nlrb.gov/case/04-CB-292699,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+Teamsters Local 853 (Hallcon),2022-04-04,San Jose,CA,https://www.nlrb.gov/case/32-CB-293506,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local 853 (SFO Airporter Inc dba Compass Transportation),2022-03-08,San Jose,CA,https://www.nlrb.gov/case/20-CB-291994,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Teamsters Local 856 (Sunsweet Growers, Inc.)",2022-03-28,Stockton,CA,https://www.nlrb.gov/case/20-CB-293096,2,8(b)(1)(B) Other Allegations and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 "Teamsters Local 856 (Sunsweet Growers, Inc.)",2022-03-28,Stockton,CA,https://www.nlrb.gov/case/20-CB-293102,2,8(b)(1)(B) Other Allegations and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
@@ -3066,6 +3155,7 @@ Teamsters Local Union 677 (First Student),2022-02-04,Middlebury,CT,https://www.n
 "Teamsters Local Union No. 384 (United Parcel Service, Inc.)",2022-02-24,Norristown,PA,https://www.nlrb.gov/case/04-CB-291208,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Teamsters Local Union No. 517 (Land O' Lakes),2022-03-14,Tulare,CA,https://www.nlrb.gov/case/32-CB-292253,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Teamsters, Local 728 (United Parcel Service)",2022-02-16,Atlanta,GA,https://www.nlrb.gov/case/10-CB-290785,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
+"Teamsters, Local 767 (United Parcel Service)",2022-04-04,Forest Hill,TX,https://www.nlrb.gov/case/16-CB-293389,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Technica LLC,2022-01-07,Fort Irwin,CA,https://www.nlrb.gov/case/31-CA-288668,1,8(a)(5) Failure to Sign Agreement
 Tecnocap LLC,2022-01-19,Glen Dale,WV,https://www.nlrb.gov/case/06-CA-289091,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Tecnocap LLC,2022-03-07,Glen Dale,WV,https://www.nlrb.gov/case/06-CA-291819,1,8(a)(1) Coercive Rules
@@ -3150,6 +3240,7 @@ The Sea Gate,2022-03-10,Brooklyn,NY,https://www.nlrb.gov/case/29-CA-292304,1,8(a
 "The Second City, Inc., and Second City Works, Inc., A Single Employer",2022-03-18,Chicago,IL,https://www.nlrb.gov/case/13-CA-292535,2,8(a)(5) Refusal to Furnish Information and 8(a)(5) Refusal to Recognize
 The Shield Institute,2022-03-10,Flushing,NY,https://www.nlrb.gov/case/29-CA-292060,2,8(a)(5) Refusal to Furnish Information and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 The Signature at MGM Grand,2022-01-18,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-289131,3,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+The Stamford Hotel,2022-04-01,Stamford,CT,https://www.nlrb.gov/case/01-CA-293373,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 The Steam Generating Team,2022-02-17,Fort Mill,SC,https://www.nlrb.gov/case/10-CA-290808,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "The STRAT Hotel, Casino & SkyPod",2022-02-08,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-290312,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
 The Toro Company,2022-03-24,Tomah,WI,https://www.nlrb.gov/case/18-CA-292840,2,8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(3) Discipline
@@ -3171,6 +3262,7 @@ Titan America,2022-01-06,Troutville,VA,https://www.nlrb.gov/case/10-CA-288517,1,
 "Titan Facility Services, LLC",2022-03-09,Washington,DC,https://www.nlrb.gov/case/05-CA-291883,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 TITAN ROOFING INC.,2022-01-18,Boston,MA,https://www.nlrb.gov/case/01-CA-289057,6,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Refusal to Recognize, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(1) Coercive Rules"
 Titan Solar Power,2022-03-21,Mesa,AZ,https://www.nlrb.gov/case/28-CA-292804,3,"8(a)(1) Coercive Rules, 8(a)(1) Interrogation (including Polling), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+TK Elevator,2022-04-01,Las Vegas,NV,https://www.nlrb.gov/case/28-CA-293391,5,"8(a)(4) Discipline, 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(4) Discharge (including Layoff and Refusal to Hire), 8(a)(2) Assistance, and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 TNMP,2022-02-11,Pasadena,TX,https://www.nlrb.gov/case/16-CA-290512,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 "Tom McManus Backhoe and Truck Service, Inc.",2022-02-11,Camanche,IA,https://www.nlrb.gov/case/25-CA-290470,1,8(a)(5) Refusal to Furnish Information
 Toneman Concrete Corporation,2022-03-03,Lancaster,CA,https://www.nlrb.gov/case/31-CA-291761,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -3221,6 +3313,7 @@ Trustone Financial Credit Union,2022-03-01,Plymouth,MN,https://www.nlrb.gov/case
 TRW Automotive U.S. LLC – Lebanon TN,2022-02-23,Lebanon,TN,https://www.nlrb.gov/case/10-CA-291099,2,8(a)(5) Refusal to Furnish Information and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 "Tucson Electric Power Company (""TEP"") & UNS Gas, Inc.",2022-01-04,Tucson,AZ,https://www.nlrb.gov/case/28-CA-288440,3,"8(a)(5) Refusal to Furnish Information, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]"
 Tucson Subaru,2022-02-10,Tucson,AZ,https://www.nlrb.gov/case/28-CA-290456,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Tucson Wildlife Center,2022-03-31,Tanque Verde,AZ,https://www.nlrb.gov/case/28-CA-293407,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Tufts Dining Services,2022-01-05,Medford,MA,https://www.nlrb.gov/case/01-CA-288525,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Tunnel Hill Ash,2022-01-13,Stamford,CT,https://www.nlrb.gov/case/01-CA-288981,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 Tutor Perini Corporation,2022-02-11,Newark,NJ,https://www.nlrb.gov/case/22-CA-290458,3,"8(a)(5) Refusal to Furnish Information, 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(1) Coercive Actions (Surveillance, etc)"
@@ -3241,6 +3334,7 @@ UAW Local 833 (Kohler Co.),2022-01-19,Kohler,WI,https://www.nlrb.gov/case/18-CB-
 UAW Local 933 (Allison Transmission),2022-03-02,Indianapolis,IN,https://www.nlrb.gov/case/25-CB-291626,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "UAW Local Union No. 286 (Professional Contracting Services, Inc. (PCSI-Tinker Airforce Base) )",2022-03-29,Tinker Afb,OK,https://www.nlrb.gov/case/14-CB-293072,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 UAW Solidarity House (Lear Corporation),2022-03-29,Hammond,IN,https://www.nlrb.gov/case/13-CB-293115,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+Uber,2022-03-31,Saginaw,MI,https://www.nlrb.gov/case/07-CA-293449,3,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], and 8(a)(5) Refusal to Recognize"
 UE Local 1018: Lanterman Regional Center Workers Union (Frank D. Lanterman Regional Center),2022-02-14,Los Angeles,CA,https://www.nlrb.gov/case/31-CB-290563,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
 UFCW Local 1155 (JBS Foods),2022-02-24,Marshalltown,IA,https://www.nlrb.gov/case/18-CB-291214,1,8(b)(1)(A) Union Dues and/or Membership Related (including excessive fees)
 UFCW Local 2013(Bayberry Nursing Home),2022-03-02,Brooklyn,NY,https://www.nlrb.gov/case/02-CB-291657,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -3269,6 +3363,7 @@ Union Kitchen,2022-03-22,Washington,DC,https://www.nlrb.gov/case/05-CA-292747,1,
 Union Kitchen,2022-03-22,Washington,DC,https://www.nlrb.gov/case/05-CA-293030,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Union Kitchen,2022-03-24,Washington,DC,https://www.nlrb.gov/case/05-CA-292818,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Union Roofing (Frank and Roxanne Lubinski),2022-03-11,Philadelphia,PA,https://www.nlrb.gov/case/04-CB-292109,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+Union Settlement,2022-04-01,New York,NY,https://www.nlrb.gov/case/02-CA-293443,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Union Sorters of America,2022-02-11,Claycomo,MO,https://www.nlrb.gov/case/14-CA-290590,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Union Tank Car Company,2022-01-24,Valdosta,GA,https://www.nlrb.gov/case/12-CA-289423,2,8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Unite Here (21 CI),2022-03-15,Manhattan,NY,https://www.nlrb.gov/case/02-CB-292314,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -3294,6 +3389,7 @@ UNITE HERE Local 74 (HMS Host),2022-03-23,Kansas City,MO,https://www.nlrb.gov/ca
 "Unite Here, Local 11 (Sheraton Grand Hotel)",2022-02-28,Los Angeles,CA,https://www.nlrb.gov/case/21-CB-291372,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "UNITE HERE, Local 737",2022-02-01,Orlando,FL,https://www.nlrb.gov/case/12-CA-289845,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "UNITE HERE, Local 737",2022-02-25,Orlando,FL,https://www.nlrb.gov/case/12-CA-291353,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+UNITE HERE! Local 11 (Disneyland Hotel),2022-04-04,Anaheim,CA,https://www.nlrb.gov/case/21-CB-293515,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Unite States Postal Service,2022-03-30,Catano,PR,https://www.nlrb.gov/case/12-CA-293252,1,8(a)(5) Refusal to Furnish Information
 "UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING AND PIPE FITTING INDUSTRY OF THE UNITED STATES AND CANADA, AFL-CIO (PPF), LOCAL 162 (Brooks Plumbing Pro LLC)",2022-02-25,Trotwood,OH,https://www.nlrb.gov/case/09-CB-291275,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Coercion, incl'g Statements and Violence"
 "UNITED ASSOCIATION OF JOURNEYMEN AND APPRENTICES OF THE PLUMBING AND PIPE FITTING INDUSTRY OF THE UNITED STATES AND CANADA, AFL-CIO (PPF), LOCAL UNION 392 (Graycor)",2022-03-28,Cincinnati,OH,https://www.nlrb.gov/case/09-CB-293063,2,8(b)(2) Hiring Hall Related and 8(b)(1)(A) Hiring Halls
@@ -3325,6 +3421,8 @@ United Food and Commercial Workers International Union LOCAL UFCW324 (Leaf and L
 United Food and Commercial Workers Local 540 (Frito Lay),2022-03-24,Irving,TX,https://www.nlrb.gov/case/16-CB-292835,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "United Food and Commercial Workers Local 555 (Safeway, Inc.)",2022-01-05,Newport,OR,https://www.nlrb.gov/case/19-CB-288512,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 United Food and Commercial Workers Union (Smithfield Food Company),2022-01-12,Milwaukee,WI,https://www.nlrb.gov/case/18-CB-288815,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+"United Food and Commercial Workers Union Locals 135, 324, 770, 1167, 1428, 1442, and 8GS (Ralphs Grocery Company)",2022-04-04,Los Angeles,CA,https://www.nlrb.gov/case/31-CC-293501,1,8(b)(4)(A) Lawsuits/Grievances
+"United Food and Commercial Workers Union Locals 135, 324, 770, 1167, 1428, 1442, and 8GS (Ralphs Grocery Company)",2022-04-04,Los Angeles,CA,https://www.nlrb.gov/case/31-CE-293471,1,8(e) All Allegations against a Labor Organization
 "United Food and Commercial Workers Union, Local 367 (Pacific Northwest Regional Council of Carpenters, and its affiliated Local Unions, including Carpenters Local Union 129)",2022-01-03,Tacoma,WA,https://www.nlrb.gov/case/19-CB-288410,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "United Food and Commercial Workers Union, Local 367 (Pacific Northwest Regional Council of Carpenters, and its affiliated Local Unions, including Carpenters Local Union 129)",2022-03-03,Tacoma,WA,https://www.nlrb.gov/case/19-CB-291643,2,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(3) Refusal to Furnish Information
 "United Food and Commercial Workers Union, Local 367 (Pacific Northwest Regional Council of Carpenters, and its affiliated Local Unions, including Carpenters Local Union 129)",2022-03-16,Kent,WA,https://www.nlrb.gov/case/19-CB-292357,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Coercion, incl'g Statements and Violence"
@@ -3400,6 +3498,7 @@ United Parcel Service,2022-03-23,Billings,MT,https://www.nlrb.gov/case/27-CA-292
 United Parcel Service,2022-03-24,Houston,TX,https://www.nlrb.gov/case/16-CA-292880,1,8(a)(1) Weingarten
 United Parcel Service,2022-03-28,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-293046,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 United Parcel Service,2022-04-01,Stafford,TX,https://www.nlrb.gov/case/16-CA-293327,2,"8(a)(1) Coercive Actions (Surveillance, etc) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+United Parcel Service,2022-04-04,Mesquite,TX,https://www.nlrb.gov/case/16-CA-293384,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 UNITED PARCEL SERVICE,2022-01-11,Lexington,KY,https://www.nlrb.gov/case/09-CA-288863,1,8(a)(5) Refusal to Furnish Information
 UNITED PARCEL SERVICE,2022-01-11,Shrewsbury,MA,https://www.nlrb.gov/case/01-CA-288776,2,8(a)(5) Refusal to Recognize and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 UNITED PARCEL SERVICE,2022-01-11,South Portland,ME,https://www.nlrb.gov/case/01-CA-288850,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -3408,6 +3507,7 @@ UNITED PARCEL SERVICE,2022-02-10,Shrewsbury,MA,https://www.nlrb.gov/case/01-CA-2
 UNITED PARCEL SERVICE,2022-02-22,Cincinnati,OH,https://www.nlrb.gov/case/09-CA-291088,1,8(a)(5) Refusal to Furnish Information
 UNITED PARCEL SERVICE,2022-02-23,Cincinnati,OH,https://www.nlrb.gov/case/09-CA-291216,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 UNITED PARCEL SERVICE,2022-03-18,Dover,NH,https://www.nlrb.gov/case/01-CA-292495,4,"8(a)(1) Weingarten, 8(a)(1) Coercive Rules, 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+UNITED PARCEL SERVICE,2022-04-04,Lexington,KY,https://www.nlrb.gov/case/09-CA-293507,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 United Parcel Service (Niantic),2022-03-30,Waterford,CT,https://www.nlrb.gov/case/01-CA-293177,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 United Parcel Service (UPS),2022-03-02,Lake Charles,LA,https://www.nlrb.gov/case/15-CA-291562,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Changes in Terms and Conditions of Employment"
 "United Parcel Service Inc, (UPS)",2022-01-08,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-288633,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -3425,6 +3525,7 @@ United Parcel Service-CSI,2022-01-19,Elk Grove Village,IL,https://www.nlrb.gov/c
 "United Parcel Service, Inc.",2022-03-25,Meridian,ID,https://www.nlrb.gov/case/27-CA-292892,4,"8(a)(2) Domination, 8(a)(1) Coercive Rules, 8(a)(5) Refusal to Recognize, and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
 "United Parcel Service, Philadelphia Air Hub",2022-01-03,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-288392,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 United parcel system,2022-03-25,West Sacramento,CA,https://www.nlrb.gov/case/20-CA-293043,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(1) Coercive Rules
+United Plumbers and Pipefitters Local 9,2022-04-04,Monmouth Junction,NJ,https://www.nlrb.gov/case/22-CB-293455,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 United Security and Police Officers of America (USPOA) (Elite Protective Service),2022-02-01,Oxon Hill,MD,https://www.nlrb.gov/case/05-CB-289894,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 United Security and Police Officers of America (USPOA)(Elite Protective Service),2022-02-02,Washington,DC,https://www.nlrb.gov/case/05-CB-289987,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "United Security Forces of America, International Union Local 217 (DFW Security Protective Force)",2022-03-17,Alliance,OH,https://www.nlrb.gov/case/08-CB-292779,1,8(b)(3) Refusal to Furnish Information
@@ -3786,7 +3887,7 @@ United States Postal Service,2022-03-07,Greer,SC,https://www.nlrb.gov/case/10-CA
 United States Postal Service,2022-03-07,Guayama,PR,https://www.nlrb.gov/case/12-CA-291719,2,8(a)(5) Repudiation/Modification of Contract[Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 United States Postal Service,2022-03-07,Kannapolis,NC,https://www.nlrb.gov/case/10-CA-291700,2,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.) and 8(a)(2) Domination"
 United States Postal Service,2022-03-07,Kannapolis,NC,https://www.nlrb.gov/case/10-CA-291702,2,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.) and 8(a)(3) Changes in Terms and Conditions of Employment"
-United States Postal Service,2022-03-07,Lafayette,LA,https://www.nlrb.gov/case/15-CA-291989,1,8(a)(3) Changes in Terms and Conditions of Employment
+United States Postal Service,2022-03-07,Lafayette,LA,https://www.nlrb.gov/case/15-CA-291989,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Changes in Terms and Conditions of Employment"
 United States Postal Service,2022-03-07,Lafayette,LA,https://www.nlrb.gov/case/15-CA-292012,1,8(a)(3) Changes in Terms and Conditions of Employment
 United States Postal Service,2022-03-07,Landis,NC,https://www.nlrb.gov/case/10-CA-291701,2,8(a)(4) Changes in Terms and Conditions of Employment and 8(a)(3) Discipline
 United States Postal Service,2022-03-07,Laredo,TX,https://www.nlrb.gov/case/16-CA-291785,4,"8(a)(1) Weingarten, 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(5) Refusal to Recognize, and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)"
@@ -3880,7 +3981,7 @@ United States Postal Service,2022-03-22,Kannapolis,NC,https://www.nlrb.gov/case/
 United States Postal Service,2022-03-22,Saint Marys,OH,https://www.nlrb.gov/case/08-CA-292723,6,"8(a)(3) Discipline, 8(a)(3) Changes in Terms and Conditions of Employment, 8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(1) Weingarten"
 United States Postal Service,2022-03-22,San Antonio,TX,https://www.nlrb.gov/case/16-CA-292711,1,8(a)(5) Refusal to Furnish Information
 United States Postal Service,2022-03-22,San Antonio,TX,https://www.nlrb.gov/case/16-CA-292721,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
-United States Postal Service,2022-03-23,Acworth,GA,https://www.nlrb.gov/case/10-CA-292797,7,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(2) Assistance, 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(5) Refusal to Recognize, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(1) Coercive Actions (Surveillance, etc), and 8(a)(1) Coercive Rules"
+United States Postal Service,2022-03-23,Acworth,GA,https://www.nlrb.gov/case/10-CA-292797,9,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(2) Assistance, 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.), 8(a)(1) Coercive Rules, 8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(3) Discipline, 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes], 8(a)(5) Refusal to Recognize, and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 United States Postal Service,2022-03-23,Albuquerque,NM,https://www.nlrb.gov/case/28-CA-292979,3,"8(a)(1) Coercive Actions (Surveillance, etc), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
 United States Postal Service,2022-03-23,Barrington,IL,https://www.nlrb.gov/case/13-CA-292770,2,8(a)(5) Refusal to Furnish Information and 8(a)(3) Discipline
 United States Postal Service,2022-03-23,Birmingham,AL,https://www.nlrb.gov/case/10-CA-292796,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
@@ -3952,8 +4053,18 @@ United States Postal Service,2022-03-31,Greenville,MS,https://www.nlrb.gov/case/
 United States Postal Service,2022-03-31,Nashville,TN,https://www.nlrb.gov/case/10-CA-293292,2,8(a)(5) Refusal to Furnish Information and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 United States Postal Service,2022-03-31,Palatine,IL,https://www.nlrb.gov/case/13-CA-293261,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 United States Postal Service,2022-03-31,San Juan,PR,https://www.nlrb.gov/case/12-CA-293353,1,8(a)(5) Refusal to Furnish Information
+United States Postal Service,2022-03-31,Tucson,AZ,https://www.nlrb.gov/case/28-CA-293410,4,"8(a)(3) Discipline, 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), 8(a)(3) Discipline, and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 United States Postal Service,2022-04-01,Kansas City,KS,https://www.nlrb.gov/case/14-CA-293346,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 United States Postal Service,2022-04-01,Kansas City,MO,https://www.nlrb.gov/case/14-CA-293337,1,8(a)(5) Refusal to Furnish Information
+United States Postal Service,2022-04-01,San Antonio,TX,https://www.nlrb.gov/case/16-CA-293405,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+United States Postal Service,2022-04-04,Atlanta,GA,https://www.nlrb.gov/case/10-CA-293454,2,"8(a)(3) Discipline and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+United States Postal Service,2022-04-04,Eugene,OR,https://www.nlrb.gov/case/19-CA-293439,3,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Refusal to Furnish Information, and 8(a)(5) Refusal to Recognize"
+United States Postal Service,2022-04-04,Houston,TX,https://www.nlrb.gov/case/16-CA-293400,1,8(a)(5) Refusal to Furnish Information
+United States Postal Service,2022-04-04,Landis,NC,https://www.nlrb.gov/case/10-CA-293413,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+United States Postal Service,2022-04-04,North Adams,MA,https://www.nlrb.gov/case/01-CA-293379,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+United States Postal Service,2022-04-04,San Antonio,TX,https://www.nlrb.gov/case/16-CA-293388,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
+United States Postal Service,2022-04-04,San Antonio,TX,https://www.nlrb.gov/case/16-CA-293397,4,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(3) Discipline, 8(a)(2) Domination, and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
+United States Postal Service,2022-04-04,Williamstown,MA,https://www.nlrb.gov/case/01-CA-293467,1,8(a)(5) Refusal to Furnish Information
 UNITED STATES POSTAL SERVICE,2022-01-05,Columbus,OH,https://www.nlrb.gov/case/09-CA-288835,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 UNITED STATES POSTAL SERVICE,2022-01-10,Amelia,OH,https://www.nlrb.gov/case/09-CA-288743,1,8(a)(2) Domination
 UNITED STATES POSTAL SERVICE,2022-01-10,Providence,RI,https://www.nlrb.gov/case/01-CA-288677,1,8(a)(5) Refusal to Furnish Information
@@ -3997,6 +4108,7 @@ United Steel Workers,2022-01-11,Winston-Salem,NC,https://www.nlrb.gov/case/10-CB
 "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, AFL-CIO-CLC, Local No. 13-00243 (ExxonMobil Corporation, Beaumont Refinery)",2022-01-27,Beaumont,TX,https://www.nlrb.gov/case/16-CB-289767,1,"8(b)(1)(A) Coercion, incl'g Statements and Violence"
 "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, AFL–CIO–CLC, Local No. 13-00243 (ExxonMobil Corporation, Beaumont Refinery)",2022-01-04,Beaumont,TX,https://www.nlrb.gov/case/16-CB-288461,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY, ALLIED INDUSTRIAL AND SERVICE WORKERS INTERNATIONAL UNION, LOCAL 1016T (Corning Glass)",2022-01-10,Harrodsburg,KY,https://www.nlrb.gov/case/09-CB-288678,2,"8(b)(1)(A) Coercion, incl'g Statements and Violence and 8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining"
+"United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, Local 13 (Chevron Phillips)",2022-04-04,Pasadena,TX,https://www.nlrb.gov/case/16-CB-293470,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied Industrial and Service Workers International Union, Local 13-243 (American Valve and Hydrant)",2022-01-12,Beaumont,TX,https://www.nlrb.gov/case/16-CB-288861,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY, ALLIED INDUSTRIAL AND SERVICE WORKERS INTERNATIONAL UNION, LOCAL 832 (Novolex: Duro Bag)",2022-01-20,Florence,KY,https://www.nlrb.gov/case/09-CB-289244,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 United Steelworkers (Granges America),2022-01-05,Salisbury,NC,https://www.nlrb.gov/case/10-CB-288497,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
@@ -4039,6 +4151,7 @@ University of San Francisco,2022-02-01,San Francisco,CA,https://www.nlrb.gov/cas
 University of TN Health Science Center,2022-01-24,Memphis,TN,https://www.nlrb.gov/case/15-CA-289399,2,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 University of Vermont Health Network at Champlain Valley Physicians Hospital,2022-03-28,Plattsburgh,NY,https://www.nlrb.gov/case/03-CA-292938,2,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "UPMC and its subsidiaries, including UPMC Presbyterian Shadyside, Magee Womens Hospital of UPMC",2022-01-18,Pittsburgh,PA,https://www.nlrb.gov/case/06-CA-289031,1,8(a)(1) Coercive Rules
+UPMC McKeesport Hospital,2022-04-01,McKeesport,PA,https://www.nlrb.gov/case/06-CA-293442,1,8(a)(5) Refusal to Furnish Information
 UPS,2022-01-19,Defiance,OH,https://www.nlrb.gov/case/08-CA-289392,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 UPS,2022-02-08,San Luis Obispo,CA,https://www.nlrb.gov/case/31-CA-290377,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
 UPS,2022-02-18,Manhattan,NY,https://www.nlrb.gov/case/02-CA-290989,1,8(a)(5) Refusal to Furnish Information
@@ -4052,6 +4165,7 @@ UPS,2022-03-14,Beaufort,SC,https://www.nlrb.gov/case/10-CA-292139,1,8(a)(3) Disc
 UPS,2022-03-16,Tallahassee,FL,https://www.nlrb.gov/case/12-CA-292378,2,8(a)(1) Coercive Rules and 8(a)(1) Coercive Rules
 UPS,2022-03-18,Manhattan,NY,https://www.nlrb.gov/case/02-CA-292544,1,8(a)(5) Refusal to Furnish Information
 UPS,2022-03-18,Manhattan,NY,https://www.nlrb.gov/case/02-CA-292663,4,"8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), 8(a)(5) Refusal to Furnish Information, 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(5) Refusal to Furnish Information"
+UPS,2022-03-31,Stratford,CT,https://www.nlrb.gov/case/01-CA-293371,2,"8(a)(1) Coercive Rules and 8(a)(1) Coercive Actions (Surveillance, etc)"
 Urban Pathways K-5 College Charter School,2022-03-22,Pittsburgh,PA,https://www.nlrb.gov/case/06-CA-292815,1,8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))
 Urban Prep Academies,2022-01-12,Chicago,IL,https://www.nlrb.gov/case/13-CA-288822,1,8(a)(5) Refusal to Furnish Information
 Urban Prep Academies,2022-03-16,Chicago,IL,https://www.nlrb.gov/case/13-CA-292351,1,8(a)(5) Refusal to Furnish Information
@@ -4067,6 +4181,7 @@ US Foods,2022-02-24,Fife,WA,https://www.nlrb.gov/case/19-CA-291228,2,"8(a)(5) Re
 US Foods,2022-03-17,La Mirada,CA,https://www.nlrb.gov/case/21-CA-292559,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 US Foods,2022-03-25,Raeford,NC,https://www.nlrb.gov/case/10-CA-292919,1,8(a)(3) Discipline
 US Steel,2022-01-21,Mountain Iron,MN,https://www.nlrb.gov/case/18-CA-289323,2,8(a)(5) Refusal to Furnish Information and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
+US Tech Solutions,2022-04-01,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-293396,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 USF HOLLAND,2022-02-28,Cincinnati,OH,https://www.nlrb.gov/case/09-CA-291491,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 USPS,2022-02-27,New York,NY,https://www.nlrb.gov/case/02-CA-291341,3,"8(a)(4) Changes in Terms and Conditions of Employment, 8(a)(3) Changes in Terms and Conditions of Employment, and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 USPS,2022-02-28,Suitland,MD,https://www.nlrb.gov/case/05-CA-291459,2,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
@@ -4078,7 +4193,7 @@ USW Local 2140 (US Pipe and Foundry),2022-01-07,Bessemer,AL,https://www.nlrb.gov
 USW Local 6787 (Cleveland Cliffs),2022-01-25,Chesterton,IN,https://www.nlrb.gov/case/13-CB-289494,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Utica Operations Assoc LLC and UCSL LLC Focus Senior Living Services referred to Oneida Centers,2022-03-18,Utica,NY,https://www.nlrb.gov/case/03-CA-292450,1,8(a)(5) Refusal to Furnish Information
 Utica Operations Assoc LLC UCSL LLC Focus Senior Living,2022-03-29,Utica,NY,https://www.nlrb.gov/case/03-CA-293161,2,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing) and 8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
-"Utility Workers Union AFL-CIO Local 127 (Pacificorp/Rocky Mountain Power, Rocky Springs, WY District",2022-03-21,Rock Springs,WY,https://www.nlrb.gov/case/27-CB-292781,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
+Utility Workers Union AFL-CIO Local 127 (Pacific Corp. d/b/a Rocky Mountain Power),2022-03-21,Rock Springs,WY,https://www.nlrb.gov/case/27-CB-292781,2,"8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining and 8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 "Utility Workers Union of America AFL-CIO Local 409 (J.F. Kiely Construction Co & J.F. Kiely Service Co., LLC)",2022-01-05,Tinton Falls,NJ,https://www.nlrb.gov/case/22-CB-288549,1,8(b)(3) Refusal to Bargain/Bad Faith or Surface Bargaining
 "UTM, ILA Local 1740 (Luis Ayala Colon Sucrs.,Inc.)",2022-02-08,San Juan,PR,https://www.nlrb.gov/case/12-CB-290252,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 V'Soske Inc.,2022-02-10,Vega Baja,PR,https://www.nlrb.gov/case/12-CA-290375,1,8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
@@ -4148,7 +4263,8 @@ Washington Teachers Union,2022-01-16,Washington,DC,https://www.nlrb.gov/case/05-
 Waste Management,2022-02-10,Memphis,TN,https://www.nlrb.gov/case/15-CA-290366,3,"8(a)(4) Discharge (including Layoff and Refusal to Hire), 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline), and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"
 Waste Management,2022-03-09,Grovetown,GA,https://www.nlrb.gov/case/10-CA-291924,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Wastequip Manufacturing,2022-02-15,Sicklerville,NJ,https://www.nlrb.gov/case/04-CA-290675,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
-Wawa Inc,2022-03-21,Sewell,NJ,https://www.nlrb.gov/case/04-CA-292595,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
+Waterworks Aquatics,2022-04-04,Irvine,CA,https://www.nlrb.gov/case/21-CA-293496,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
+Wawa Inc.,2022-03-21,Sewell,NJ,https://www.nlrb.gov/case/04-CA-292595,2,"8(a)(1) Coercive Rules and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Wayne Farms LLC,2022-02-25,Decatur,AL,https://www.nlrb.gov/case/10-CA-291261,2,8(a)(5) Refusal to Furnish Information and 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing)
 Wayne UNC,2022-01-21,Goldsboro,NC,https://www.nlrb.gov/case/10-CA-289284,1,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 "WE2 Support Services 8(a) JV, LLC",2022-01-13,Morgantown,WV,https://www.nlrb.gov/case/06-CA-288967,2,"8(a)(3) Changes in Terms and Conditions of Employment and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
@@ -4167,7 +4283,9 @@ Wells Fargo Center,2022-03-10,Philadelphia,PA,https://www.nlrb.gov/case/04-CA-29
 Wesley Manor/BHI,2022-02-14,Frankfort,IN,https://www.nlrb.gov/case/25-CA-290615,1,"8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 West Alabama Area Local 399 (United States Postal Service),2022-01-14,Tuscaloosa,AL,https://www.nlrb.gov/case/10-CB-288958,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 West Hills Hospital & Medical Center,2022-02-08,West Hills,CA,https://www.nlrb.gov/case/31-CA-290258,1,8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes]
+West Rock Inc,2022-04-04,Springfield,MA,https://www.nlrb.gov/case/01-CA-293436,1,8(a)(3) Discipline
 "Western Express, Inc.",2022-03-14,Richmond,VA,https://www.nlrb.gov/case/05-CA-292388,1,"8(a)(1) Coercive Actions (Surveillance, etc)"
+Western Great Lakes Pilots Association,2022-04-01,Soo,MI,https://www.nlrb.gov/case/07-CA-293481,2,"8(a)(5) Repudiation/Modification of Contract [Sec 8(d)/Unilateral Changes] and 8(a)(1) Coercive Statements (Threats, Promises of Benefits, etc.)"
 "Western Michigan Area Local 281, American Postal Workers Union (APWU), AFL-CIO (United States Postal Service)",2022-02-28,Grand Rapids,MI,https://www.nlrb.gov/case/07-CB-291554,1,"8(b)(1)(A) Duty of Fair Representation, incl'g Superseniority, denial of access"
 Westhab,2022-01-03,Bronx,NY,https://www.nlrb.gov/case/02-CA-288398,3,"8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting)), 8(a)(5) Refusal to Bargain/Bad Faith Bargaining (incl'g surface bargaining/direct dealing), and 8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline)"
 Westin Phoenix Downtown and Marriott International,2022-02-11,Phoenix,AZ,https://www.nlrb.gov/case/28-CA-290536,2,"8(a)(1) Concerted Activities (Retaliation, Discharge, Discipline) and 8(a)(3) Discharge (Including Layoff and Refusal to Hire (not salting))"

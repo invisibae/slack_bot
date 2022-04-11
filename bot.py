@@ -17,7 +17,7 @@ csv_obj = csv.DictReader(allegations)
 csv_list = list(csv_obj)
 
 today = date.today()
-three_days_ago = today - timedelta(days = 4)
+three_days_ago = today - timedelta(days = 2)
 
 
 

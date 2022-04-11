@@ -10,6 +10,7 @@ library(RSQLite)
 library(RCurl)
 library(data.table)
 library(lubridate)
+library(knitr)
 
 #first let's try to download the linked sql db file 
 
@@ -65,10 +66,27 @@ test <- nlrb_filing %>%
 
 test$date_filed <- test$date_filed %>% ymd()
 
-test %>%
+test$date_filed %>% typeof()
+
+test2 <- test %>%
   filter(date_filed > "2022-01-01") %>%
   group_by(name, date_filed, city, state) %>%
-  summarise(allegations = paste(allegation, collapse = ""))
+  summarise(count = n(),
+            allegations = paste(allegation, collapse = ""),
+            .groups = "keep") 
+
+
+  
+  
+test3 <- test %>%
+  filter(date_filed > "2022-01-01") %>%
+  group_by(name, date_filed, city, state, url) %>%
+  summarise(count = n(),
+            allegations = combine_words(allegation),
+            .groups = "keep")
+
+write_csv(test3, "data/allegations_test.csv")
+
 
 
 
