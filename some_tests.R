@@ -28,20 +28,29 @@ nlrb_download_url <- labor_html %>%
 #make a temp file to store the zip 
 temp<- tempfile()
 
+temp_dir <- tempdir()
+
 #download zip to temporary file 
 download.file(nlrb_download_url, temp)
 
 
 #and unzip
-unzip(temp, exdir = "./")
+unzip(temp, exdir = temp_dir)
 
-#get rid of the temp file 
-unlink(temp)
 
-#### Let's try to get labor data from the db file
+#append directory name, base name, and file name to get a consistent file path
+temp_dir_name <- dirname(temp_dir)
+temp_base_name <- basename(temp_dir)
+
+heres_the_file <- paste0(temp_dir_name, "//",temp_base_name, "/nlrb.db")
+
+heres_the_file
+
+
+# Let's try to get labor data from the db file
 
 #db will be where we can get each individual table from the SQLite DB
-db <- dbConnect(dbDriver("SQLite"), dbname = "nlrb.db")
+db <- dbConnect(dbDriver("SQLite"), dbname = heres_the_file)
 
 #This is our list of tables as outlined on github
 dbListTables(db)
@@ -59,16 +68,16 @@ nlrb_sought_unit <- dbReadTable(db, "sought_unit")
 nlrb_tally<- dbReadTable(db, "tally")
 nlrb_voting_unit <- dbReadTable(db, "voting_unit")
 
-test <- nlrb_filing %>%
+nlrb_alleg <- nlrb_filing %>%
   left_join(nlrb_allegation, by = "case_number") %>%
   filter(!is.na(allegation))
 
 
-test$date_filed <- test$date_filed %>% ymd()
+nlrb_alleg$date_filed <- nlrb_alleg$date_filed %>% ymd()
 
 test$date_filed %>% typeof()
 
-test2 <- test %>%
+nlrb_alleg2 <- nlrb_alleg %>%
   filter(date_filed > "2022-01-01") %>%
   group_by(name, date_filed, city, state) %>%
   summarise(count = n(),
@@ -78,14 +87,19 @@ test2 <- test %>%
 
   
   
-test3 <- test %>%
+nlrb_alleg3 <- nlrb_alleg %>%
   filter(date_filed > "2022-01-01") %>%
   group_by(name, date_filed, city, state, url) %>%
   summarise(count = n(),
             allegations = combine_words(allegation),
             .groups = "keep")
 
-write_csv(test3, "data/allegations_test.csv")
+write_csv(nlrb_alleg3, "data/allegations_test.csv")
+
+
+#get rid of the temp file 
+unlink("temp_dir")
+
 
 
 

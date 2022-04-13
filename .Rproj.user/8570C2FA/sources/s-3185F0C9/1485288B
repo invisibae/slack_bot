@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1649083556749.000,
-    "dirty" : false,
+    "dirty" : true,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "1485288B",
-    "lastKnownWriteTime" : 1649170218,
-    "last_content_update" : 1649170218820,
+    "lastKnownWriteTime" : 1649811080,
+    "last_content_update" : 1649811467108,
     "path" : "~/slack_bot/some_tests.R",
     "project_path" : "some_tests.R",
     "properties" : {
-        "cursorPosition" : "12,0",
-        "scrollLine" : "0"
+        "cursorPosition" : "112,20",
+        "scrollLine" : "99"
     },
     "read_only" : false,
     "read_only_alternatives" : [
