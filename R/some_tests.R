@@ -13,7 +13,7 @@ library(lubridate)
 library(knitr)
 library(usethis)
 
-usethis::create_package(path = "slack.bot.packages")
+
 
 #first let's try to download the linked sql db file 
 
@@ -88,8 +88,8 @@ test2 <- test %>%
             .groups = "keep") 
 
 
-  
-  
+
+
 test3 <- test %>%
   filter(date_filed > "2022-01-01") %>%
   group_by(name, date_filed, city, state, url) %>%
@@ -111,7 +111,7 @@ hotel_workers_pandemic <- nlrb_filing %>%
   mutate(name = toupper(name)) %>%
   filter(str_detect(toupper(name), "UNITE HERE")) %>%
   filter(date_filed >= "2020-01-01")
-  
+
 
 test <- hotel_workers_pandemic %>%
   inner_join(nlrb_allegation, by = "case_number") %>%
