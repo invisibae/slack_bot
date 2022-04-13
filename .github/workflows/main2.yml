@@ -49,8 +49,6 @@ jobs:
           install.packages('data.table')
           install.packages('lubridate')
           install.packages('knitr')
-          saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
-          writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
 
       - name: Cache R packages
@@ -68,7 +66,7 @@ jobs:
       - name: Generate data
         run: |
           source("R/some_tests.R")
-        shell: Rscript {0} 
+        shell: Rscript {0}
 
 
       - name: Commit files
@@ -78,5 +76,3 @@ jobs:
           git add --all
           git commit -am "add data"
           git push
-
-        
