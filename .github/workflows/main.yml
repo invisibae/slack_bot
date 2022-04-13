@@ -1,4 +1,3 @@
-install.packages# Hourly scraping
 name: NLRB_Labor_Bot
 
 # Controls when the action will run.
