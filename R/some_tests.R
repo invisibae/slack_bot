@@ -12,6 +12,8 @@ library(data.table)
 library(lubridate)
 library(knitr)
 library(usethis)
+library(remotes)
+library(sessioninfo)
 
 
 
@@ -103,44 +105,3 @@ write_csv(test3, "data/allegations_test.csv")
 
 unlink(temp_dir, recursive = T)
 dir.exists(temp_dir)
-
-
-######## having some fun 
-hotel_workers_pandemic <- nlrb_filing %>%
-  mutate(date_filed = ymd(date_filed)) %>%
-  mutate(name = toupper(name)) %>%
-  filter(str_detect(toupper(name), "UNITE HERE")) %>%
-  filter(date_filed >= "2020-01-01")
-
-
-test <- hotel_workers_pandemic %>%
-  inner_join(nlrb_allegation, by = "case_number") %>%
-  select(name, allegation, city, state, date_filed, date_closed, reason_closed, url)
-
-document_links <- nlrb_doc_link %>%
-  select(case_number, url)
-
-nlrb_allegations_w_docs <- nlrb_doc_link %>%
-  left_join(nlrb_filing, by ="case_number") %>%
-  left_join(nlrb_allegation, by = "case_number") %>%
-  filter(!is.na(name) & !is.na(allegation)) 
-
-nlrb_allegations_w_docs$created_a <- nlrb_allegations_w_docs$created_at %>%
-  as.Date("%Y-%m-%d") 
-
-nlrb_allegations_w_docs %>% 
-  View()
-
-
-
-
-#############
-
-URL <- "https://beta.bls.gov/dataViewer/view/timeseries/APU000074714"
-
-cpi_gas_table <- URL %>%
-  read_html() %>%
-  html_table()
-
-cpi_gas_table<- cpi_gas_table[[4]]
-
