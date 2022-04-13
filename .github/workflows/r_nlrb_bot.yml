@@ -1,4 +1,3 @@
-# Hourly scraping
 name: NLRB_Labor_Bot
 
 # Controls when the action will run.
@@ -7,43 +6,75 @@ on:
     - cron: '0 9 * * *'
 
 jobs:
-  autoscrape:
-    # The type of runner that the job will run on
-    runs-on: macos-latest
+  generate-data:
+    runs-on: ${{ matrix.config.os }}
 
-    # Load repo and install R
+    name: ${{ matrix.config.os }} (${{ matrix.config.r }})
+
+    strategy:
+      fail-fast: false
+      matrix:
+        config:
+          - {os: ubuntu-latest,   r: 'release'}
+
+    env:
+      R_REMOTES_NO_ERRORS_FROM_WARNINGS: true
+      RSPM: ${{ matrix.config.rspm }}
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
-    - uses: actions/checkout@v2
-    - uses: r-lib/actions/setup-r@master
+      - uses: actions/checkout@v2
 
-    # Set-up R
-    - name: Install packages
-      run: |
-        R -e 'install.packages("tidyverse")'
-        R -e 'install.packages(rvest)'
-        R -e 'install.packages(janitor)'
-        R -e 'install.packages(dplyr)'
-        R -e 'install.packages(janitor)'
-        R -e 'install.packages(furrr)'
-        R -e 'install.packages(rjson)'
-        R -e 'install.packages(DBI)'
-        R -e 'install.packages(RSQLite)'
-        R -e 'install.packages(RCurl)'
-        R -e 'install.packages(data.table)'
-        R -e 'library(lubridate)'
-        R -e 'install.packages(knitr)'
-    # Run R script
-    - name: R Script
-      run: Rscript some_tests.R
+      - uses: r-lib/actions/setup-r@master
+        with:
+          r-version: ${{ matrix.config.r }}
+          http-user-agent: ${{ matrix.config.http-user-agent }}
 
-    # Add new files in data folder, commit along with other modified files, push
-    - name: Commit files
-      run: |
-        git config --local user.name github-actions
-        git config --local user.email "actions@github.com"
-        git add data/*
-        git commit -am "GH ACTION Autorun $(date)"
-        git push origin main
-      env:
-        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
-        username: github-actions
+      - uses: r-lib/actions/setup-pandoc@master
+
+      - name: Query dependencies
+        run: |
+          install.packages('remotes')
+          install.packages('sessioninfo')
+          install.packages("tidyverse")
+          install.packages('rvest')
+          install.packages('janitor')
+          install.packages('dplyr')
+          install.packages('furrr')
+          install.packages('rjson')
+          install.packages('curl')
+          install.packages('DBI')
+          install.packages('RSQLite')
+          install.packages('RCurl')
+          install.packages('data.table')
+          install.packages('lubridate')
+          install.packages('knitr')
+          saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
+          writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
+        shell: Rscript {0}
+
+      - name: Cache R packages
+        uses: actions/cache@v1
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+
+      - name: Install dependencies
+        run: |
+          remotes::install_deps(dependencies = TRUE)
+        shell: Rscript {0}
+
+      - name: Generate data
+        run: |
+          source("R/some_tests.R")
+        shell: Rscript {0}
+
+
+      - name: Commit files
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add --all
+          git commit -am "add data"
+          git push
