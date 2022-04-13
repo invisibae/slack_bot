@@ -11,6 +11,9 @@ library(RCurl)
 library(data.table)
 library(lubridate)
 library(knitr)
+library(usethis)
+
+usethis::create_package(path = "slack.bot.packages")
 
 #first let's try to download the linked sql db file 
 

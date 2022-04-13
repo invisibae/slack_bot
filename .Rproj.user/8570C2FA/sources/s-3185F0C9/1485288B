@@ -8,12 +8,12 @@
     "hash" : "0",
     "id" : "1485288B",
     "lastKnownWriteTime" : 1649811080,
-    "last_content_update" : 1649811467108,
+    "last_content_update" : 1649817066171,
     "path" : "~/slack_bot/some_tests.R",
     "project_path" : "some_tests.R",
     "properties" : {
-        "cursorPosition" : "112,20",
-        "scrollLine" : "99"
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0"
     },
     "read_only" : false,
     "read_only_alternatives" : [
