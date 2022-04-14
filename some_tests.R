@@ -93,7 +93,11 @@ test3 <- test %>%
             allegations = combine_words(allegation),
             .groups = "keep")
 
-write_csv(test3, "data/allegations_test.csv")
+date <- paste("data/allegations", date(), sep =" ") %>% 
+  paste0(".csv")
+
+write_csv(test3, date)
+
 
 #get rid of temp files
 
