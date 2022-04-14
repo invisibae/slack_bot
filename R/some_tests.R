@@ -2,36 +2,42 @@ library(tidyverse)
 library(rvest)
 library(janitor)
 library(dplyr)
+library(furrr)
+library(rjson)
+library(curl)
 library(DBI)
 library(RSQLite)
+library(RCurl)
 library(data.table)
 library(lubridate)
 library(knitr)
+library(usethis)
 library(remotes)
+library(sessioninfo)
+
+install.packages("NCmisc")
+install.packages('list')
 
 
-
-
-
-#first let's try to download the linked sql db file
+#first let's try to download the linked sql db file 
 
 url <- "https://github.com/labordata/nlrb-data"
 
 labor_html <- read_html(url)
 
-# we'll get the download link here
+# we'll get the download link here 
 nlrb_download_url <- labor_html %>%
   html_nodes("#readme ul li:nth-child(1) a") %>%
   html_attr("href")
 
 
 
-#make a temp file to store the zip
+#make a temp file to store the zip 
 temp<- tempfile()
 
 temp_dir <- tempdir()
 
-#download zip to temporary file
+#download zip to temporary file 
 download.file(nlrb_download_url, temp)
 
 
@@ -81,7 +87,7 @@ test2 <- test %>%
   group_by(name, date_filed, city, state) %>%
   summarise(count = n(),
             allegations = paste(allegation, collapse = ""),
-            .groups = "keep")
+            .groups = "keep") 
 
 
 
@@ -95,7 +101,7 @@ test3 <- test %>%
 
 write_csv(test3, "data/allegations_test.csv")
 
-#get rid of temp files
+#get rid of temp files 
 
 unlink(temp_dir, recursive = T)
 dir.exists(temp_dir)
