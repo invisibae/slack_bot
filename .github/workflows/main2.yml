@@ -34,8 +34,9 @@ jobs:
         R -e 'install.packages("tidyverse")'
         R -e 'install.packages("lubridate")'
         R -e 'install.packages("knitr")'
+        R -e 'install.packages("janitor")'
     - name: scrape - r
-      run: Rscript R/some_tests.R
+      run: Rscript some_tests.R
     - name: fetch
       run: git fetch
     - name: pull
