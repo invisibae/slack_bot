@@ -18,9 +18,9 @@ jobs:
     # Step 3: Install requirements, so Python script can run
     - name: Install requirements
       run: python -m pip install pandas zipfile csv slack slack.errors datetime
-    # Step 4    
+    # Step 4
     - name: Run script to create main csv
-      run: python bot.py     
+      run: python bot.py
     # Step 5
     - name: Commit and push if it changed
       run: |-
