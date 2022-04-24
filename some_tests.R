@@ -163,6 +163,42 @@ year_ago_allegation_count <- test5 %>%
             n = n()
   ) 
 
+year_ago_allegation_type <- test5 %>%
+  ungroup() %>%
+  group_by(week = floor_date(date_filed, unit="week")) %>%
+  filter(week == latest_date) %>%
+  count(allegations, sort = T) %>%
+  mutate(allegation_short = case_when(str_detect(allegations, "Refusal to Furnish") ~ "Refusal to Furnish Information",
+                                      str_detect(allegations, "Concerted") ~ "Retalation",
+                                      str_detect(allegations, "Fair Representation") ~ "Duty of Fair Representation",
+                                      str_detect(allegations, "Refusal to Bargain") ~ "Refusal to Bargain",
+                                      str_detect(allegations, "Discharge") ~ "Discharge (Including Layoff and Refusal to Hire"
+  ))
+
+
+most_common_allegation <- year_ago_allegation_type %>%
+  .[1,]
+
+second_most_common_allegation <- year_ago_allegation_type %>%
+  .[2,]
+
+third_most_common_allegation <- year_ago_allegation_type %>%
+  .[3,]
+
+allegation_1 <- most_common_allegation$allegation_short 
+
+allegation_1_n <- most_common_allegation$n
+
+
+allegation_2 <- second_most_common_allegation$allegation_short 
+
+allegation_2_n <- second_most_common_allegation$n
+
+allegation_3 <- third_most_common_allegation$allegation_short 
+
+allegation_3_n <- third_most_common_allegation$n
+
+
 
 
 
@@ -196,7 +232,8 @@ this_week_cases <- "https://www.nlrb.gov/search/case"
 two_lines <- writeLines(c("Read more about this week's cases here:", this_week_cases))
 
 this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ","), "workers at", 
-      n_firms, "firms alleged a total of", n_allegations, "violations of the National Labor Relations Act.",
+      n_firms, "firms alleged a total of", n_allegations, "violations of the National Labor Relations Act", "including", paste0(allegation_1, ","), 
+      paste0(allegation_2, ","), "and", paste0(allegation_3, "."),
       "This is", up_or_down, pct_change, "from", year_ago_n_allegations, "a year ago this week.") %>%
   paste("Read more about this week's cases here:", this_week_cases) %>%
   print(two_lines)
@@ -205,54 +242,22 @@ this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ",
 
 
 
-#get rid of temp files
-
-unlink(temp_dir, recursive = T)
-dir.exists(temp_dir)
 
 # Post To Slack
-
-
-
-slackr_setup(token = "xoxb-3300787831347-3302244082933-juYxfJeImwo01pAzY5zxPdr9", 
-             username = "labor_bot",
-             channel = "#slack-bots",
-             incoming_webhook_url = "https://hooks.slack.com/services/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", 
-             echo = FALSE,)
-
-
-
-
-create_config_file(
-  filename = "slackr/.slackr",
-  token = Sys.getenv("SLACK_TOKEN"),
-  incoming_webhook_url = Sys.getenv("SLACK_INCOMING_WEBHOOK_URL"),
-  username = Sys.getenv("SLACK_USERNAME"),
-  channel = Sys.getenv("SLACK_CHANNEL")
-)
-
-
-
-
-
 
 
 
 slackr_msg(txt = this_week_allegations)
 
 
-test5 %>%
-  ungroup() %>%
-  group_by(week = floor_date(date_filed, unit="week")) %>%
-  filter(week == latest_date) %>%
-  count(allegations, sort = T) 
-  
-  
- test5 %>%
-    group_by(week = floor_date(date_filed, unit="week")) %>%
-    filter(week == latest_date)
- 
 
+
+  
+  
+#get rid of temp files
+
+unlink(temp_dir, recursive = T)
+dir.exists(temp_dir)
 
 
 
