@@ -8,8 +8,7 @@ library(data.table)
 library(lubridate)
 library(knitr)
 library(remotes)
-
-
+library(slackr)
 
 
 
@@ -72,9 +71,22 @@ test <- nlrb_filing %>%
   left_join(nlrb_allegation, by = "case_number") %>%
   filter(!is.na(allegation))
 
+test4 <- nlrb_filing %>%
+  left_join(nlrb_doc_link)
 
 
-test$date_filed %>% typeof()
+test4 %>%
+  group_by(region_assigned) %>%
+  count(sort = T) 
+
+
+
+
+
+nlrb_filing$date_filed <- ymd(nlrb_filing$date_filed)
+
+
+
 
 test2 <- test %>%
   filter(date_filed > "2022-01-01") %>%
@@ -87,7 +99,7 @@ test2 <- test %>%
 
 
 test3 <- test %>%
-  filter(date_filed > "2022-01-01") %>%
+  filter(date_filed > "2020-01-01") %>%
   group_by(name, date_filed, city, state, url) %>%
   summarise(count = n(),
             allegations = combine_words(allegation),
@@ -98,8 +110,151 @@ date <- paste("data/allegations", date(), sep =" ") %>%
 
 write_csv(test3, date)
 
+test3$date_filed <- test3$date_filed %>% 
+  ymd()
+
+# construct the post
+
+# adds in a couple of important variables like office handling the allegation
+
+test5 <- test3 %>%
+  left_join(nlrb_filing) 
+
+
+
+  
+latest_date <- test5 %>%
+    ungroup() %>%
+    group_by(week = floor_date(date_filed, unit="week")) %>%
+    arrange(desc(week)) %>%
+    filter(week == max(week)) %>%
+    select(week)
+
+
+
+latest_date <- latest_date$week %>%
+ head(1) 
+
+
+
+
+
+
+
+allegation_count <- test5 %>%
+  group_by(week = floor_date(date_filed, unit="week")) %>%
+  filter(week == latest_date) %>%
+  summarise(count = sum(count),
+            n = n()
+  ) 
+
+
+year_ago_date <- test5 %>%
+  ungroup() %>%
+  group_by(week = floor_date(date_filed, unit="week")) %>%
+  summarise() %>%
+  arrange(desc(week)) %>%
+  .[53,]
+
+year_ago_allegation_count <- test5 %>%
+  group_by(week = floor_date(date_filed, unit="week")) %>%
+  filter(week == year_ago_date) %>%
+  summarise(count = sum(count),
+            n = n()
+  ) 
+
+
+
+
+n_firms <- allegation_count$n %>%
+  head(1)
+
+n_allegations <- allegation_count$count %>%
+  head(1)
+
+year_ago_n_firms <- year_ago_allegation_count$n %>%
+  head(1)
+
+year_ago_n_allegations <- year_ago_allegation_count$count %>%
+  head(1)
+
+
+up_or_down <- case_when(
+  n_allegations > year_ago_n_allegations ~ print("up"),
+  n_allegations < year_ago_n_allegations ~ print("down"),
+  n_allegations == year_ago_n_allegations ~ print("equal to"),
+  TRUE ~ print("error")
+)
+
+
+latest_date_2 <- format.Date(latest_date, format = "%B %d, %Y")
+
+pct_change <- paste0(round((n_allegations - year_ago_n_allegations) / year_ago_n_allegations * 100), "%")
+
+this_week_cases <- "https://www.nlrb.gov/search/case"
+
+two_lines <- writeLines(c("Read more about this week's cases here:", this_week_cases))
+
+this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ","), "workers at", 
+      n_firms, "firms alleged a total of", n_allegations, "violations of the National Labor Relations Act.",
+      "This is", up_or_down, pct_change, "from", year_ago_n_allegations, "a year ago this week.") %>%
+  paste("Read more about this week's cases here:", this_week_cases) %>%
+  print(two_lines)
+
+
+
+
 
 #get rid of temp files
 
 unlink(temp_dir, recursive = T)
 dir.exists(temp_dir)
+
+# Post To Slack
+
+
+
+slackr_setup(token = "xoxb-3300787831347-3302244082933-juYxfJeImwo01pAzY5zxPdr9", 
+             username = "labor_bot",
+             channel = "#slack-bots",
+             incoming_webhook_url = "https://hooks.slack.com/services/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", 
+             echo = FALSE,)
+
+
+
+
+create_config_file(
+  filename = "slackr/.slackr",
+  token = Sys.getenv("SLACK_TOKEN"),
+  incoming_webhook_url = Sys.getenv("SLACK_INCOMING_WEBHOOK_URL"),
+  username = Sys.getenv("SLACK_USERNAME"),
+  channel = Sys.getenv("SLACK_CHANNEL")
+)
+
+
+
+
+
+
+
+
+slackr_msg(txt = this_week_allegations)
+
+
+test5 %>%
+  ungroup() %>%
+  group_by(week = floor_date(date_filed, unit="week")) %>%
+  filter(week == latest_date) %>%
+  count(allegations, sort = T) 
+  
+  
+ test5 %>%
+    group_by(week = floor_date(date_filed, unit="week")) %>%
+    filter(week == latest_date)
+ 
+
+
+
+
+
+

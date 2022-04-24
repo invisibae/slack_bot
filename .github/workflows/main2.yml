@@ -36,6 +36,7 @@ jobs:
         R -e 'install.packages("knitr")'
         R -e 'install.packages("janitor")'
         R -e 'install.packages("remotes")'
+        R -e 'install.packages("slackr")'
     - name: scrape - r
       run: Rscript some_tests.R
     - name: fetch
