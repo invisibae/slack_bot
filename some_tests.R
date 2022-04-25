@@ -253,7 +253,14 @@ this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ",
 
 
 
-slackr_msg(txt = this_week_allegations)
+slackr_msg(txt = this_week_allegations,
+           channel = Sys.getenv("SLACK_CHANNEL"),
+           username = Sys.getenv("SLACK_USERNAME"),
+           icon_emoji = Sys.getenv("SLACK_ICON_EMOJI"),
+           token = Sys.getenv("SLACK_TOKEN"),
+           thread_ts = NULL,
+           reply_broadcast = FALSE
+)
 
 
 
