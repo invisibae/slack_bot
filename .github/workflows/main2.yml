@@ -13,6 +13,12 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  env:
+  SLACK_API_TOKEN: ${{ slack_bot.SLACK_API_TOKEN }}
+  SLACK_INCOMING_WEBHOOK_URL: ${{ slack_bot.SLACK_INCOMING_WEBHOOK_URL }}
+  SLACK_CHANNEL: ${{ slack_bot.SLACK_CHANNEL }}
+  SLACK_USERNAME: ${{ slack_bot.SLACK_USERNAME }}
+  SLACK_ICON_EMOJI: ${{ slack_bot.ICON_EMOJI }}
   autoscrape:
     # The type of runner that the job will run on
     runs-on: macos-latest

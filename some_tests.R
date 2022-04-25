@@ -232,8 +232,14 @@ this_week_cases <- "https://www.nlrb.gov/search/case"
 two_lines <- writeLines(c("Read more about this week's cases here:", this_week_cases))
 
 this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ","), "workers at", 
-      n_firms, "firms alleged a total of", n_allegations, "violations of the National Labor Relations Act", "including", paste0(allegation_1, ","), 
-      paste0(allegation_2, ","), "and", paste0(allegation_3, "."),
+      n_firms, "firms alleged a total of", n_allegations, 
+      "violations of the National Labor Relations Act", 
+      "including", paste0(allegation_1),
+      paste0("(",allegation_1_n, " times),"),
+      paste0(allegation_2), 
+      paste0("(",allegation_2_n, " times),"),
+      "and", paste0(allegation_3),
+      paste0("(",allegation_3_n, " times)."),
       "This is", up_or_down, pct_change, "from", year_ago_n_allegations, "a year ago this week.") %>%
   paste("Read more about this week's cases here:", this_week_cases) %>%
   print(two_lines)
@@ -248,7 +254,6 @@ this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ",
 
 
 slackr_msg(txt = this_week_allegations)
-
 
 
 
