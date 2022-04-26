@@ -38,13 +38,15 @@ jobs:
         R -e 'install.packages("janitor")'
         R -e 'install.packages("remotes")'
         R -e 'install.packages("slackr")'
-      env:
-        SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
-        SLACK_INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
-        SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
-        SLACK_USERNAME: ${{ secrets.SLACK_USERNAME }}
-        SLACK_ICON_EMOJI: ${{ secrets.ICON_EMOJI }}
+
     - name: scrape - r
+    env:
+      SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
+      SLACK_INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
+      SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+      SLACK_USERNAME: ${{ secrets.SLACK_USERNAME }}
+      SLACK_ICON_EMOJI: ${{ secrets.ICON_EMOJI }}
+      
       run: Rscript some_tests.R
     - name: fetch
       run: git fetch
