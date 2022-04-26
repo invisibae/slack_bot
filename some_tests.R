@@ -263,7 +263,8 @@ slackr_msg(txt = this_week_allegations,
 )
 
 
-
+Sys.getenv("SLACK_CHANNEL")
+Sys.getenv("SLACK_USERNAME")
 
   
   
