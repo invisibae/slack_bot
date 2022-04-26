@@ -41,11 +41,11 @@ jobs:
 
     - name: scrape - r
       env:
-        SLACK_API_TOKEN: ${{ secrets.SLACK_API_TOKEN }}
-        SLACK_INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
-        SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
-        SLACK_USERNAME: ${{ secrets.SLACK_USERNAME }}
-        SLACK_ICON_EMOJI: ${{ secrets.ICON_EMOJI }}
+        SLACK_API_TOKEN: ${{ slack_bot.SLACK_API_TOKEN }}
+        SLACK_INCOMING_WEBHOOK_URL: ${{ slack_bot.SLACK_INCOMING_WEBHOOK_URL }}
+        SLACK_CHANNEL: ${{ slack_bot.SLACK_CHANNEL }}
+        SLACK_USERNAME: ${{ slack_bot.SLACK_USERNAME }}
+        SLACK_ICON_EMOJI: ${{ slack_bot.ICON_EMOJI }}
       run: Rscript some_tests.R
     - name: fetch
       run: git fetch
