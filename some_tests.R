@@ -77,7 +77,7 @@ test4 <- nlrb_filing %>%
 
 test4 %>%
   group_by(region_assigned) %>%
-  count(sort = T) 
+  count(sort = T)
 
 
 
@@ -105,12 +105,12 @@ test3 <- test %>%
             allegations = combine_words(allegation),
             .groups = "keep")
 
-date <- paste("data/allegations", date(), sep =" ") %>% 
+date <- paste("data/allegations", date(), sep =" ") %>%
   paste0(".csv")
 
 write_csv(test3, date)
 
-test3$date_filed <- test3$date_filed %>% 
+test3$date_filed <- test3$date_filed %>%
   ymd()
 
 # construct the post
@@ -118,11 +118,11 @@ test3$date_filed <- test3$date_filed %>%
 # adds in a couple of important variables like office handling the allegation
 
 test5 <- test3 %>%
-  left_join(nlrb_filing) 
+  left_join(nlrb_filing)
 
 
 
-  
+
 latest_date <- test5 %>%
     ungroup() %>%
     group_by(week = floor_date(date_filed, unit="week")) %>%
@@ -133,7 +133,7 @@ latest_date <- test5 %>%
 
 
 latest_date <- latest_date$week %>%
- head(1) 
+ head(1)
 
 
 
@@ -146,7 +146,7 @@ allegation_count <- test5 %>%
   filter(week == latest_date) %>%
   summarise(count = sum(count),
             n = n()
-  ) 
+  )
 
 
 year_ago_date <- test5 %>%
@@ -161,7 +161,7 @@ year_ago_allegation_count <- test5 %>%
   filter(week == year_ago_date) %>%
   summarise(count = sum(count),
             n = n()
-  ) 
+  )
 
 year_ago_allegation_type <- test5 %>%
   ungroup() %>%
@@ -185,16 +185,16 @@ second_most_common_allegation <- year_ago_allegation_type %>%
 third_most_common_allegation <- year_ago_allegation_type %>%
   .[3,]
 
-allegation_1 <- most_common_allegation$allegation_short 
+allegation_1 <- most_common_allegation$allegation_short
 
 allegation_1_n <- most_common_allegation$n
 
 
-allegation_2 <- second_most_common_allegation$allegation_short 
+allegation_2 <- second_most_common_allegation$allegation_short
 
 allegation_2_n <- second_most_common_allegation$n
 
-allegation_3 <- third_most_common_allegation$allegation_short 
+allegation_3 <- third_most_common_allegation$allegation_short
 
 allegation_3_n <- third_most_common_allegation$n
 
@@ -231,12 +231,12 @@ this_week_cases <- "https://www.nlrb.gov/search/case"
 
 two_lines <- writeLines(c("Read more about this week's cases here:", this_week_cases))
 
-this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ","), "workers at", 
-      n_firms, "firms alleged a total of", n_allegations, 
-      "violations of the National Labor Relations Act", 
+this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ","), "workers at",
+      n_firms, "firms alleged a total of", n_allegations,
+      "violations of the National Labor Relations Act",
       "including", paste0(allegation_1),
       paste0("(",allegation_1_n, " times),"),
-      paste0(allegation_2), 
+      paste0(allegation_2),
       paste0("(",allegation_2_n, " times),"),
       "and", paste0(allegation_3),
       paste0("(",allegation_3_n, " times)."),
@@ -263,19 +263,12 @@ slackr_msg(txt = this_week_allegations,
 )
 
 
-Sys.getenv("SLACK_CHANNEL")
-Sys.getenv("SLACK_USERNAME")
 
-  
-  
+Sys.getenv()
+
+
+
 #get rid of temp files
 
 unlink(temp_dir, recursive = T)
 dir.exists(temp_dir)
-
-
-
-
-
-
-
