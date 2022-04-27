@@ -48,11 +48,16 @@ jobs:
         R -e 'install.packages("remotes")'
         R -e 'install.packages("slackr")'
 
-    # - name: Create and populate .Renviron file
-    #   run: |
-    #     echo MY_SECRET="$MY_SECRET" >> ~/.Renviron
-    #     echo MY_SECRET2="$MY_SECRET2" >> ~/.Renviron
-    #   shell: bash
+    - name: Create and populate .Renviron file
+      run: |
+        echo SLACK_API_TOKEN="$SLACK_API_TOKEN" >> ~/.Renviron
+        echo SLACK_TOKEN="$SLACK_TOKEN" >> ~/.Renviron
+        echo SLACK_WEBHOOK_UR="$SLACK_WEBHOOK_URL" >> ~/.Renviron
+        echo SLACK_ICON_EMOJI="$SLACK_ICON_EMOJI" >> ~/.Renviron
+        echo SLACK_USERNAME="$SLACK_USERNAME" >> ~/.Renviron
+        echo SLACK_CHANNEL="$SLACK_CHANNEL" >> ~/.Renviron
+        echo SLACK_INCOMING_WEBHOOK_URL="$SLACK_INCOMING_WEBHOOK_URL" >> ~/.Renviron
+      shell: bash
 
     - name: scrape - r
       run: Rscript some_tests.R
