@@ -21,4 +21,3 @@ slackr_msg(txt = this_week_allegations,
            thread_ts = NULL,
            reply_broadcast = FALSE
 )
-
