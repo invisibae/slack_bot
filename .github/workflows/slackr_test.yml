@@ -22,7 +22,7 @@ jobs:
       SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
       SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
     runs-on: macos-latest
-    
+
     steps:
     - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@master
@@ -31,11 +31,11 @@ jobs:
     - name: Install packages
       run: |
         R -e 'install.packages("slackr")'
-    
+
     - name: print env variables
       run: |
         echo ${{ secrets.SLACK_USERNAME }}
-        
+
     - name: scrape - r
       run: Rscript slackr_test.R
     - name: fetch
@@ -51,4 +51,3 @@ jobs:
         git commit -m "Latest data ${timestamp}"
     - name: push
       run: git push
-    
