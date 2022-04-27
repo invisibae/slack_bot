@@ -47,6 +47,10 @@ jobs:
         R -e 'install.packages("janitor")'
         R -e 'install.packages("remotes")'
         R -e 'install.packages("slackr")'
+    - name: print env variables
+      run: |
+        echo ${{ secrets.SLACK_USERNAME }}
+
 
     - name: Create and populate .Renviron file
       run: |
