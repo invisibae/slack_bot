@@ -263,7 +263,7 @@ slackr_msg(txt = this_week_allegations,
 )
 
 
-
+Sys.getenv()
 
 
 
