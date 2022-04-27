@@ -3,7 +3,7 @@ library(slackr)
 
 test <- "this is a test message"
 
-slackr_setup(txt = this_week_allegations,
+slackr_setup(
              token = Sys.getenv("SLACK_TOKEN"),
              channel = Sys.getenv("SLACK_CHANNEL"),
              username = Sys.getenv("SLACK_USERNAME"),
