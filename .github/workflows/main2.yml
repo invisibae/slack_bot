@@ -14,7 +14,7 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  environment: slack_bot
+environment: slack_bot
   env:
     SLACK_INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
     SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
