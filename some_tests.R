@@ -262,7 +262,7 @@ slackr_msg(txt = this_week_allegations,
            reply_broadcast = FALSE
 )
 
-icon_emoji = Sys.getenv()
+Sys.getenv()
 
 
 #get rid of temp files
