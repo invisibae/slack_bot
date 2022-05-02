@@ -14,12 +14,12 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-    env:
-      SLACK_INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
-      SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
-      SLACK_USERNAME: ${{ secrets.SLACK_USERNAME }}
-      SLACK_ICON_EMOJI: ${{ secrets.ICON_EMOJI }}
-      SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+  env:
+    SLACK_INCOMING_WEBHOOK_URL: ${{ secrets.SLACK_INCOMING_WEBHOOK_URL }}
+    SLACK_CHANNEL: ${{ secrets.SLACK_CHANNEL }}
+    SLACK_USERNAME: ${{ secrets.SLACK_USERNAME }}
+    SLACK_ICON_EMOJI: ${{ secrets.ICON_EMOJI }}
+    SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
 
     # The type of runner that the job will run on
     runs-on: macos-latest
