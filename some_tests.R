@@ -251,15 +251,6 @@ this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ",
 
 # Post To Slack
 
-slackr_setup(
-  channel = ${{ secrets.SLACK_CHANNEL }},
-  username = ${{ secrets.SLACK_USERNAME }},
-  icon_emoji = "",
-  incoming_webhook_url = "",
-  token = ${{ secrets.SLACK_TOKEN }},
-  echo = FALSE,
-  cache_dir = ""
-)
 
 
 slackr_msg(txt = this_week_allegations,
@@ -270,11 +261,6 @@ slackr_msg(txt = this_week_allegations,
            thread_ts = NULL,
            reply_broadcast = FALSE
 )
-
-
-
-
-
 
 
 #get rid of temp files
