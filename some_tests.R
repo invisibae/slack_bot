@@ -108,7 +108,7 @@ test3 <- test %>%
 date <- paste("data/allegations", date(), sep =" ") %>%
   paste0(".csv")
 
-write_csv(test3, date)
+
 
 test3$date_filed <- test3$date_filed %>%
   ymd()
@@ -269,7 +269,7 @@ if (this_week_allegations == y_day_allegations) {
              reply_broadcast = FALSE
   )
 } else {
-  slackr_msg(txt = "No new labor updates today",
+  slackr_msg(txt = "No new labor updates today :cry:",
              token = Sys.getenv("SLACK_TOKEN"),
              channel = Sys.getenv("SLACK_CHANNEL"),
              username = Sys.getenv("SLACK_USERNAME"),
@@ -281,14 +281,6 @@ if (this_week_allegations == y_day_allegations) {
 
 
 
-slackr_msg(txt = this_week_allegations,
-           token = Sys.getenv("SLACK_TOKEN"),
-           channel = Sys.getenv("SLACK_CHANNEL"),
-           username = Sys.getenv("SLACK_USERNAME"),
-           icon_emoji = Sys.getenv("SLACK_ICON_EMOJI"),
-           thread_ts = NULL,
-           reply_broadcast = FALSE
-)
 
 
 
