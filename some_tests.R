@@ -247,9 +247,37 @@ this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ",
 
 
 
+y_day_allegations <- readChar("data/this_week_allegations_yday.txt", 
+                              file.info("data/this_week_allegations_yday.txt")$size) %>%
+  str_remove_all("\n")
+
+
+
+
+
 
 
 # Post To Slack
+
+if (this_week_allegations == y_day_allegations) {
+  slackr_msg(txt = this_week_allegations,
+             token = Sys.getenv("SLACK_TOKEN"),
+             channel = Sys.getenv("SLACK_CHANNEL"),
+             username = Sys.getenv("SLACK_USERNAME"),
+             icon_emoji = Sys.getenv("SLACK_ICON_EMOJI"),
+             thread_ts = NULL,
+             reply_broadcast = FALSE
+  )
+} else {
+  slackr_msg(txt = "No new labor updates today",
+             token = Sys.getenv("SLACK_TOKEN"),
+             channel = Sys.getenv("SLACK_CHANNEL"),
+             username = Sys.getenv("SLACK_USERNAME"),
+             icon_emoji = Sys.getenv("SLACK_ICON_EMOJI"),
+             thread_ts = NULL,
+             reply_broadcast = FALSE)
+  
+}
 
 
 
@@ -262,7 +290,6 @@ slackr_msg(txt = this_week_allegations,
            reply_broadcast = FALSE
 )
 
-Sys.getenv()
 
 
 #get rid of temp files
