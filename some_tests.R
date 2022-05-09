@@ -124,16 +124,16 @@ test5 <- test3 %>%
 
 
 latest_date <- test5 %>%
-    ungroup() %>%
-    group_by(week = floor_date(date_filed, unit="week")) %>%
-    arrange(desc(week)) %>%
-    filter(week == max(week)) %>%
-    select(week)
+  ungroup() %>%
+  group_by(week = floor_date(date_filed, unit="week")) %>%
+  arrange(desc(week)) %>%
+  filter(week == max(week)) %>%
+  select(week)
 
 
 
 latest_date <- latest_date$week %>%
- head(1)
+  head(1)
 
 
 
@@ -232,18 +232,20 @@ this_week_cases <- "https://www.nlrb.gov/search/case"
 two_lines <- writeLines(c("Read more about this week's cases here:", this_week_cases))
 
 this_week_allegations <-paste("This week, the week of", paste0(latest_date_2, ","), "workers at",
-      n_firms, "firms alleged a total of", n_allegations,
-      "violations of the National Labor Relations Act",
-      "including", paste0(allegation_1),
-      paste0("(",allegation_1_n, " times),"),
-      paste0(allegation_2),
-      paste0("(",allegation_2_n, " times),"),
-      "and", paste0(allegation_3),
-      paste0("(",allegation_3_n, " times)."),
-      "This is", up_or_down, pct_change, "from", year_ago_n_allegations, "a year ago this week.") %>%
+                              n_firms, "firms alleged a total of", n_allegations,
+                              "violations of the National Labor Relations Act",
+                              "including", paste0(allegation_1),
+                              paste0("(",allegation_1_n, " times),"),
+                              paste0(allegation_2),
+                              paste0("(",allegation_2_n, " times),"),
+                              "and", paste0(allegation_3),
+                              paste0("(",allegation_3_n, " times)."),
+                              "This is", up_or_down, pct_change, "from", year_ago_n_allegations, "a year ago this week.") %>%
   paste("Read more about this week's cases here:", this_week_cases) %>%
   print(two_lines)
 
+write.table(this_week_allegations, file = "data/this_week_allegations_yday.txt", sep = "\t",
+            row.names = TRUE, col.names = NA)
 
 
 
