@@ -30,6 +30,14 @@ jobs:
     - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@master
 
+    - name: Cache R packages
+      if: runner.os != 'Windows'
+      uses: actions/cache@v2
+      with:
+        path: /slack.bot.packages/DESCRIPTION 
+        key: ${{ runner.os }}-r-${{ matrix.config.r }}-${{ hashFiles('DESCRIPTION') }}
+
+
     # Set-up R
     - name: Install packages
       run: |
