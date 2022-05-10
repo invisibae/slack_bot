@@ -141,10 +141,7 @@ this_week_cases <- test5 %>%
   group_by(week = floor_date(date_filed, unit="week")) %>%
   filter(week == latest_date) 
 
-?floor_date
 
-
-this_week_allegations
 
 
 allegation_count <- test5 %>%
@@ -288,6 +285,10 @@ if (this_week_allegations == y_day_allegations) {
   
 }
 
+# save rds
+
+saveRDS(this_week_allegations, "data/this_week_allegations_text.rds")
+
 ## print map and geocode 
 
 # Real quick gonna write a way to automate filtering this week's cases so they can be easily mapped and geocoded in the script
@@ -356,13 +357,23 @@ row.names(this_year_for_heatmap) <- heatmap_rows
 
 heatmap_matrix <- data.matrix(this_year_for_heatmap)
 
+# save rds
+
+saveRDS(heatmap_matrix, "data/heatmap_matrix.rds")
+
+##
+
 row.names(heatmap_matrix) <- heatmap_rows
 
 heatmap_matrix <- heatmap_matrix[,-1]
 
+this_year_heatmap <- heatmap(heatmap_matrix, Rowv=NA, Colv=NA, col = cm.colors(256), scale="none", margins=c(5,10))
+
 heatmap(heatmap_matrix, Rowv=NA, Colv=NA, col = cm.colors(256), scale="none", margins=c(5,10))
 
+#save heatmap RDS
 
+saveRDS(this_year_heatmap, "data/this_year_heatmap.rds")
 
 ## save RDS of map for RMD file 
 
