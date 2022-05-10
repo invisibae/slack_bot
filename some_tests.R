@@ -1,3 +1,8 @@
+library(leaflet)
+library(leaflet.providers)
+library(data.table)
+library(packcircles)
+library(ggmap)
 library(tidyverse)
 library(rvest)
 library(janitor)
@@ -9,8 +14,6 @@ library(lubridate)
 library(knitr)
 library(remotes)
 library(slackr)
-
-
 
 #first let's try to download the linked sql db file
 
