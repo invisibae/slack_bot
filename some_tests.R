@@ -137,8 +137,14 @@ latest_date <- latest_date$week %>%
 
 
 
+this_week_cases <- test5 %>%
+  group_by(week = floor_date(date_filed, unit="week")) %>%
+  filter(week == latest_date) 
+
+?floor_date
 
 
+this_week_allegations
 
 
 allegation_count <- test5 %>%
@@ -223,6 +229,7 @@ up_or_down <- case_when(
 )
 
 
+
 latest_date_2 <- format.Date(latest_date, format = "%B %d, %Y")
 
 pct_change <- paste0(round((n_allegations - year_ago_n_allegations) / year_ago_n_allegations * 100), "%")
@@ -281,9 +288,85 @@ if (this_week_allegations == y_day_allegations) {
   
 }
 
+## print map and geocode 
+
+# Real quick gonna write a way to automate filtering this week's cases so they can be easily mapped and geocoded in the script
+
+this_week <- test5 %>%
+  filter(date_filed >= latest_date) %>% 
+  mutate(city_name = paste0(city, ", " ,state)) %>%
+  mutate(count2 = count * 1.8)
 
 
 
+
+for(i in 1:nrow(this_week)){
+  # Print("Working...")
+  result <- geocode(this_week$city_name[i], output = "latlona", source = "google")
+  this_week$lon[i] <- as.numeric(result[1])
+  this_week$lat[i] <- as.numeric(result[2])
+  this_week$geoAddress[i] <- as.character(result[3])
+}
+
+this_week$label <- paste0("Name: ", this_week$name,"<br>",
+                          "Allegation: ", this_week$allegations,"<br>",
+                          "Date Filed:", this_week$date_filed)
+
+
+this_week_map <- this_week %>% 
+  leaflet() %>%
+  addTiles() %>%  # Add default OpenStreetMap map tiles
+  addProviderTiles(providers$CartoDB.Positron) %>%
+  addMarkers(lng= ~lon, lat= ~lat , popup = ~label,
+             clusterOptions = markerClusterOptions())
+
+
+
+
+## Create heatmap 
+
+
+this_year <- test5 %>%
+  filter(date_filed > today() - 365) %>%
+  mutate(city_name = paste0(city, ", " ,state)) 
+
+this_year_for_heatmap <- this_year %>%
+  group_by(state) %>%
+  summarise(month = lubridate::floor_date(date_filed, "month")) %>%
+  count(month) %>%
+  pivot_wider(names_from = month, values_from = n)
+
+this_year_for_heatmap <- this_year_for_heatmap %>%
+  filter(!is.na(state)) %>%
+  replace(is.na(.), 0)
+
+this_year %>%
+  group_by(state) %>%
+  summarise(month = lubridate::floor_date(date_filed, "month")) %>%
+  count(month)
+
+
+heatmap_cols <- this_year_for_heatmap %>% colnames()
+
+heatmap_rows <- this_year_for_heatmap$state
+
+
+
+row.names(this_year_for_heatmap) <- heatmap_rows
+
+heatmap_matrix <- data.matrix(this_year_for_heatmap)
+
+row.names(heatmap_matrix) <- heatmap_rows
+
+heatmap_matrix <- heatmap_matrix[,-1]
+
+heatmap(heatmap_matrix, Rowv=NA, Colv=NA, col = cm.colors(256), scale="none", margins=c(5,10))
+
+
+
+## save RDS of map for RMD file 
+
+saveRDS(this_week_map, file = "data/this_week_map.rds")
 
 
 #get rid of temp files

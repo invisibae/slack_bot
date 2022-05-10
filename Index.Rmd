@@ -1,0 +1,24 @@
+---
+title: "labor_dashboard"
+---
+
+```{r, cache=TRUE, include=F}
+library(tidyverse)
+library(rvest)
+library(janitor)
+library(dplyr)
+library(DBI)
+library(RSQLite)
+library(data.table)
+library(lubridate)
+library(knitr)
+library(remotes)
+library(slackr)
+
+
+read_rds("data/this_week_map.rds")
+```
+# labor_map
+```{r}
+this_week_map
+```
