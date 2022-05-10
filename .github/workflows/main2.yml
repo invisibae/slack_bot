@@ -21,6 +21,7 @@ jobs:
       SLACK_USERNAME: ${{ secrets.SLACK_USERNAME }}
       SLACK_ICON_EMOJI: ${{ secrets.ICON_EMOJI }}
       SLACK_TOKEN: ${{ secrets.SLACK_TOKEN }}
+      GGMAP_GOOGLE_API_KEY: ${{ secret.GGMAP_GOOGLE_API_KEY }}
 
     # The type of runner that the job will run on
     runs-on: macos-latest
