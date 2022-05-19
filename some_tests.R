@@ -290,7 +290,7 @@ if (this_week_allegations == y_day_allegations) {
 
 # save rds
 
-saveRDS(this_week_allegations, "data/this_week_allegations_text.rds")
+# saveRDS(this_week_allegations, "data/this_week_allegations_text.rds")
 
 ## print map and geocode 
 
@@ -362,7 +362,7 @@ heatmap_matrix <- data.matrix(this_year_for_heatmap)
 
 # save rds
 
-saveRDS(heatmap_matrix, "data/heatmap_matrix.rds")
+# saveRDS(heatmap_matrix, "data/heatmap_matrix.rds")
 
 ##
 
@@ -376,11 +376,11 @@ heatmap(heatmap_matrix, Rowv=NA, Colv=NA, col = cm.colors(256), scale="none", ma
 
 #save heatmap RDS
 
-saveRDS(this_year_heatmap, "data/this_year_heatmap.rds")
+# saveRDS(this_year_heatmap, "data/this_year_heatmap.rds")
 
 ## save RDS of map for RMD file 
 
-saveRDS(this_week_map, file = "data/this_week_map.rds")
+# saveRDS(this_week_map, file = "data/this_week_map.rds")
 
 
 #get rid of temp files
