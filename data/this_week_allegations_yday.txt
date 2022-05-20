@@ -1,2 +1,2 @@
 ""	"x"
-"1"	"This week, the week of May 15, 2022, workers at 69 firms alleged a total of 103 violations of the National Labor Relations Act including Refusal to Furnish Information (12 times), Retalation (9 times), and Refusal to Bargain (4 times). This is down -80% from 518 a year ago this week. Read more about this week's cases here: https://www.nlrb.gov/search/case"
+"1"	"This week, the week of May 15, 2022, workers at 112 firms alleged a total of 176 violations of the National Labor Relations Act including Refusal to Furnish Information (13 times), Retalation (11 times), and Refusal to Bargain (9 times). This is down -66% from 518 a year ago this week. Read more about this week's cases here: https://www.nlrb.gov/search/case"
