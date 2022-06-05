@@ -1,2 +1,2 @@
 ""	"x"
-"1"	"This week, the week of May 29, 2022, workers at 134 firms alleged a total of 218 violations of the National Labor Relations Act including Refusal to Furnish Information (11 times), Duty of Fair Representation (10 times), and NA (8 times). This is down -42% from 375 a year ago this week. Read more about this week's cases here: https://www.nlrb.gov/search/case"
+"1"	"This week, the week of May 29, 2022, workers at 218 firms alleged a total of 340 violations of the National Labor Relations Act including Refusal to Furnish Information (22 times), Duty of Fair Representation (17 times), and Retalation (15 times). This is down -9% from 375 a year ago this week. Read more about this week's cases here: https://www.nlrb.gov/search/case"
